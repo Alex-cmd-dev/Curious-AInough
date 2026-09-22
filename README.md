@@ -4,10 +4,6 @@
 
 *A practical guide to learning, creating, and making decisions with AI.*
 
-This is the companion resource repository for the Curious AInough student workshop. It contains the deeper explanations, examples, prompts, resources, optional technical material, and current links that would overload a 60-minute presentation.
-
-> **New to GitHub?** Every link below opens a page in your browser — just click. No account, download, or command-line knowledge needed to read this guide. Each section lives in its own folder with a `README.md` you can read directly on GitHub, plus an `examples/` folder with copy-and-paste prompts.
-
 ## Core idea
 
 Learning to use AI is a little like learning to drive. Knowing what every button does helps, but you also need a destination, attention to the road, and the judgment to change course. AI tools will change. These habits will remain useful:
