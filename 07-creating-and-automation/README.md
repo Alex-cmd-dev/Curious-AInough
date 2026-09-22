@@ -31,4 +31,4 @@ You should understand the result well enough to inspect it, question it, improve
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a sample automation-mapping prompt.
+See the [examples](examples/) folder for what mapping and automating a task looks like across different fields.

@@ -33,7 +33,7 @@ Before using AI, ask:
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a sample prompt you can copy and adapt, plus room to add your own.
+See the [examples](examples/) folder for how the five-step loop looks across different fields, plus room to add your own.
 
 ## Next steps
 

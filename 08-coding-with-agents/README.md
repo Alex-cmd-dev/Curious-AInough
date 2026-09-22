@@ -33,4 +33,4 @@ A coding agent may inspect files, change code, run commands, and test a project.
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a sample debugging prompt.
+See the [examples](examples/) folder for what this looks like across different fields, not just software.

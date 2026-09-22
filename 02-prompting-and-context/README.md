@@ -41,4 +41,4 @@ Take a vague request and add one detail from each part of the pattern. Compare t
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a worked "before and after" prompt.
+See the [examples](examples/) folder for worked "before and after" prompts across different fields.

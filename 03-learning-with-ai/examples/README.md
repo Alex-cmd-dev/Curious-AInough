@@ -2,13 +2,33 @@
 
 [⬅ Back to Learning With AI](../README.md)
 
-## Try it
+Applying the **attempt → ask → explain → test → reflect** coaching loop across different fields.
+
+### 🔬 Science & Engineering
 
 > [!TIP]
-> "Here is my attempt to solve this equation. Please point out the first step where I went wrong and give me a hint. Do not finish it for me yet."
->
-> This works because it shares your attempt first, and explicitly asks the assistant to hold back the full solution, keeping you in the "attempt" and "ask" stages of the loop instead of skipping to a finished answer.
+> "Here is my attempt to solve this physics problem [paste work]. Point out the first step where I went wrong and give me one hint. Do not finish it for me yet."
+
+### 📜 Humanities & History
+
+> [!TIP]
+> "I'm learning Spanish and just wrote this paragraph about my weekend [paste text]. Don't rewrite it. Point out my three most common grammar mistakes with one example of each, and give me a practice sentence for each."
+
+### 💼 Business & Entrepreneurship
+
+> [!TIP]
+> "I'm trying to understand how to read a balance sheet. Quiz me with one simple example, and only explain the parts I get wrong."
+
+### 🎨 Arts & Design
+
+> [!TIP]
+> "I'm learning to identify chords by ear. Play the role of an instructor: give me one chord progression to name, tell me only whether I'm right or wrong, and don't reveal the answer until I've guessed twice."
+
+### 🌍 Everyday Life & Community
+
+> [!TIP]
+> "I'm learning to cook rice without a rice cooker and keep getting it mushy. Ask me what I did last time before telling me what went wrong."
 
 ## Add your own
 
-Add a subject-specific coaching prompt (math, writing, a language, music theory, etc.) here.
+Add a subject-specific coaching prompt from your own field, math, a trade skill, a language, sports, anything, here.

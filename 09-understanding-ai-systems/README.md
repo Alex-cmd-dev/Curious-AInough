@@ -103,4 +103,4 @@ Understanding the system helps you choose appropriate tasks, recognize limitatio
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a sample permissions-check walkthrough.
+See the [examples](examples/) folder for what a permissions check looks like across different fields.

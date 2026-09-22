@@ -42,4 +42,4 @@ A **free tier** is an ongoing, limited option. A **trial** ends. A **student off
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a worked example of comparing tools for a specific task.
+See the [examples](examples/) folder for how to compare tools for a specific task, across different fields.

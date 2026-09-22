@@ -43,4 +43,4 @@ For consequential tasks, keep a human review step. You remain responsible for wh
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for a sample privacy-check prompt.
+See the [examples](examples/) folder for what a privacy check looks like across different fields.

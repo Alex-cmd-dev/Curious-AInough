@@ -35,7 +35,7 @@ Use AI to become more capable, not more dependent. Set the goal, supply judgment
 
 Each numbered folder contains:
 - **`README.md`**: the section's explanation and guidance.
-- **`examples/`**: ready-to-use prompts you can copy, plus room to add your own.
+- **`examples/`**: how the concept plays out across different fields (science, humanities, business, arts, everyday life), plus room to add your own.
 
 ## 🗺️ The journey in one page
 
