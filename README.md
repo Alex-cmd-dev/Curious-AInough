@@ -12,7 +12,7 @@ Learning to use AI is a little like learning to drive. Knowing what every button
 
 **Set a goal, give useful context, explore options, check important claims, and decide for yourself.**
 
-Use AI to become more capable, not more dependent. The student sets the goal, supplies judgment, checks important work, and owns the final decision.
+Use AI to become more capable, not more dependent. Set the goal, supply judgment, check important work, and own the final decision.
 
 ## 🔁 The five-step loop
 
