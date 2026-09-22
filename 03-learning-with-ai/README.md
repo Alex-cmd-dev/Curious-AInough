@@ -1,4 +1,4 @@
-# 3. Learning With AI — Use a Coach
+# 🎓 3. Learning With AI: Use a Coach
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Prompting & Context](../02-prompting-and-context/README.md) · [Next: Research & Verification ➡](../04-research-and-verification/README.md)
 
@@ -28,8 +28,9 @@ Use AI to become more capable, not to avoid thinking. If someone else lifts ever
 
 Do not skip the first attempt, copy an explanation you cannot explain, or treat a confident answer as proof that you understand.
 
-**Remember: Use AI to get better at the work, not only faster at finishing it.**
+> [!IMPORTANT]
+> **Remember:** Use AI to get better at the work, not only faster at finishing it.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a sample coaching prompt.

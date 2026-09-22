@@ -1,4 +1,4 @@
-# 4. Research & Verification — Follow the Evidence
+# 🔍 4. Research & Verification: Follow the Evidence
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Learning With AI](../03-learning-with-ai/README.md) · [Next: Brainstorming & Curiosity ➡](../05-brainstorming-and-curiosity/README.md)
 
@@ -30,10 +30,12 @@ Check these before citing a source:
 
 ## Important rule
 
-AI sometimes invents facts, quotes, and references. A confident tone does not make a claim true. AI can suggest where to look — it cannot replace reading and validating important sources. For medical, legal, financial, or other consequential decisions, use qualified people and authoritative sources.
+> [!WARNING]
+> AI sometimes invents facts, quotes, and references. A confident tone does not make a claim true. AI can suggest where to look. It cannot replace reading and validating important sources. For medical, legal, financial, or other consequential decisions, use qualified people and authoritative sources.
 
-**Remember: AI can give you clues. Evidence determines what you trust.**
+> [!IMPORTANT]
+> **Remember:** AI can give you clues. Evidence determines what you trust.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a sample verification prompt.

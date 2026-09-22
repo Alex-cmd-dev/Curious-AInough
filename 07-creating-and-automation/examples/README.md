@@ -1,12 +1,13 @@
-# Examples — Creating & Automation
+# 📎 Examples: Creating & Automation
 
 [⬅ Back to Creating & Automation](../README.md)
 
 ## Try it
 
+> [!TIP]
 > "Map this task into steps. Mark which could be automated, where human approval is needed, and how to test failures."
-
-Use this on any recurring task (sign-ups, reminders, note summaries, data entry) before you build or script anything.
+>
+> Use this on any recurring task (sign-ups, reminders, note summaries, data entry) before you build or script anything.
 
 ## Add your own
 

@@ -1,4 +1,4 @@
-# 6. Ethics, Privacy & Security — Protect Privacy and Work Fairly
+# 🔐 6. Ethics, Privacy & Security: Protect Privacy and Work Fairly
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Brainstorming & Curiosity](../05-brainstorming-and-curiosity/README.md) · [Next: Creating & Automation ➡](../07-creating-and-automation/README.md)
 
@@ -35,10 +35,12 @@ For consequential tasks, keep a human review step. You remain responsible for wh
 
 ## Third-party tool warning
 
-Treat MCP servers and skills like software. They may contain malware, malicious instructions, or requests for more access than they need. Use trusted sources, review permissions and code when possible, use least privilege, and never give unknown tools credentials or sensitive data.
+> [!WARNING]
+> Treat MCP servers and skills like software. They may contain malware, malicious instructions, or requests for more access than they need. Use trusted sources, review permissions and code when possible, use least privilege, and never give unknown tools credentials or sensitive data.
 
-**Remember: More capability calls for more careful judgment.**
+> [!IMPORTANT]
+> **Remember:** More capability calls for more careful judgment.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a sample privacy-check prompt.

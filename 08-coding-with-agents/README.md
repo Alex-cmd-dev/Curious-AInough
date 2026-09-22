@@ -1,4 +1,4 @@
-# 8. Coding With Agents (Optional)
+# 🤖 8. Coding With Agents (Optional)
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../07-creating-and-automation/README.md) · [Next: Understanding AI Systems ➡](../09-understanding-ai-systems/README.md)
 
@@ -28,8 +28,9 @@ A coding agent may inspect files, change code, run commands, and test a project.
 - Does the tool need this permission?
 - Is any sensitive data exposed?
 
-**Remember: An agent can write code. You still own the result.**
+> [!IMPORTANT]
+> **Remember:** An agent can write code. You still own the result.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a sample debugging prompt.

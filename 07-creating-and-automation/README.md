@@ -1,4 +1,4 @@
-# 7. Creating & Automation — Create and Automate Useful Work
+# ⚙️ 7. Creating & Automation: Create and Automate Useful Work
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Ethics, Privacy & Security](../06-ethics-privacy-security/README.md) · [Next: Coding With Agents ➡](../08-coding-with-agents/README.md)
 
@@ -26,8 +26,9 @@ Accuracy, safety, privacy, fairness, quality, consent, money, reputation, or oth
 
 You should understand the result well enough to inspect it, question it, improve it, explain it, and take responsibility for using it.
 
-**Remember: Automate repetition. Keep judgment.**
+> [!IMPORTANT]
+> **Remember:** Automate repetition. Keep judgment.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a sample automation-mapping prompt.

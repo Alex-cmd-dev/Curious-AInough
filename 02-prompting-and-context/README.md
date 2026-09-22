@@ -1,10 +1,10 @@
-# 2. Prompting & Context — Give Good Directions
+# 🗣️ 2. Prompting & Context: Give Good Directions
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Start Here](../01-start-here/README.md) · [Next: Learning With AI ➡](../03-learning-with-ai/README.md)
 
 ## Purpose
 
-Good prompting is clear communication. You do not need secret phrases. Clear prompting is clear assignment design — a useful request gives the tool enough direction to produce something you can inspect and improve.
+Good prompting is clear communication. You do not need secret phrases. Clear prompting is clear assignment design: a useful request gives the tool enough direction to produce something you can inspect and improve.
 
 ## Prompt pattern
 
@@ -12,11 +12,11 @@ Good prompting is clear communication. You do not need secret phrases. Clear pro
 
 | Part | What to tell the assistant |
 | --- | --- |
-| Goal | What you want to accomplish and why |
-| Context | The relevant background and what you have already tried |
-| Constraints | Length, audience, sources, rules, or things to avoid |
-| Output | The format that would help you most |
-| Check | How you want uncertainty or missing information handled |
+| 🎯 Goal | What you want to accomplish and why |
+| 📚 Context | The relevant background and what you have already tried |
+| 🚧 Constraints | Length, audience, sources, rules, or things to avoid |
+| 📦 Output | The format that would help you most |
+| ✅ Check | How you want uncertainty or missing information handled |
 
 ## Reusable pattern
 
@@ -36,8 +36,9 @@ Read the answer and follow up: What is unclear? What is missing? Did it follow t
 
 Take a vague request and add one detail from each part of the pattern. Compare the first and second responses, then decide which details mattered.
 
-**Remember: A good prompt is a clear assignment.**
+> [!IMPORTANT]
+> **Remember:** A good prompt is a clear assignment.
 
-## Examples
+## 📎 Examples
 
 See the [examples](examples/) folder for a worked "before and after" prompt.
