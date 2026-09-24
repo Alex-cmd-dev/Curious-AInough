@@ -4,29 +4,30 @@
 
 ## The mindset
 
-AI is an assistant, not an authority. Use it to expand your thinking, practice, research, create, and improve, while keeping responsibility for the goal and the result.
+AI is an assistant, not an authority. It can help you learn, explore, research, create, and improve, but you are responsible for where you are going and what you do with the result.
 
-Before opening a tool, ask: **What am I trying to accomplish?** You may want to understand a concept, solve a problem, make something, or compare choices. A clear goal lets you tell whether the response helped.
+Before using AI, ask yourself: **What am I trying to accomplish?**
 
-Give the assistant the background it needs: what you already know, what you have tried, who the result is for, and any requirements. Share only information the task needs. Then ask for more than one approach if the problem allows it. Compare the ideas with your goal, check important facts, and make the final choice yourself.
+Then use AI to help you explore. Question what it gives you, check important information, and decide what is actually useful.
+
+The goal is not to let AI do your thinking for you. The goal is to use AI to help you think, learn, and create more effectively.
 
 ## The five-step loop
 
 1. **Define the goal:** What are you actually trying to accomplish or understand?
-2. **Give context:** What does the tool need to know about your situation, audience, level, and constraints?
-3. **Explore:** Ask for explanations, options, drafts, questions, examples, or counterarguments.
+2. **Give context:** Give AI the information it needs to help with that goal.
+3. **Explore:** Use AI to examine explanations, possibilities, questions, examples, or different approaches.
 4. **Check:** Test the reasoning, inspect the evidence, review the output, and verify important claims.
-5. **Decide:** Use your own judgment to accept, revise, reject, or continue exploring.
+5. **Decide:** Use your own judgment to accept, revise, reject, or keep exploring.
 
 ## One-page cheat sheet
 
 Before using AI, ask:
 
-- What is my goal?
-- What do I already think or know?
-- What information can I safely share?
-- What would a useful response look like?
-- How will I check the result?
+- What am I trying to accomplish?
+- How could AI help me think through it?
+- What should I question or verify?
+- What do I ultimately think?
 
 > [!IMPORTANT]
 > **Remember:** You set the goal. AI assists. You decide.

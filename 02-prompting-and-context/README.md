@@ -4,7 +4,11 @@
 
 ## Purpose
 
-Good prompting is clear communication. You do not need secret phrases. Clear prompting is clear assignment design: a useful request gives the tool enough direction to produce something you can inspect and improve.
+You know where you want to go. Now you need to give AI useful directions.
+
+Prompting is how you communicate what you need. Good prompting is not about secret phrases or finding the perfect combination of words. It is about giving AI enough information and direction to produce something useful that you can inspect and improve.
+
+A useful prompt usually explains your goal, relevant background, important limits, what kind of response you want, and how uncertainty should be handled.
 
 ## Prompt pattern
 
@@ -12,11 +16,11 @@ Good prompting is clear communication. You do not need secret phrases. Clear pro
 
 | Part | What to tell the assistant |
 | --- | --- |
-| 🎯 Goal | What you want to accomplish and why |
-| 📚 Context | The relevant background and what you have already tried |
-| 🚧 Constraints | Length, audience, sources, rules, or things to avoid |
-| 📦 Output | The format that would help you most |
-| ✅ Check | How you want uncertainty or missing information handled |
+| 🎯 Goal | What you want to accomplish |
+| 📚 Context | What AI needs to know about your situation |
+| 🚧 Constraints | Requirements, limits, audience, sources, or things to avoid |
+| 📦 Output | What kind of response would help you |
+| ✅ Check | How uncertainty, missing information, or important claims should be handled |
 
 ## Reusable pattern
 
@@ -30,14 +34,14 @@ Help me check it by:
 
 ## Read and follow up
 
-Read the answer and follow up: What is unclear? What is missing? Did it follow the instructions? A conversation often works better than trying to craft one perfect prompt.
+A good prompt does not guarantee a good answer.
 
-## Practice
+Read what AI gives you. Ask what is unclear or missing. Correct misunderstandings. Add context when needed. Ask follow-up questions.
 
-Take a vague request and add one detail from each part of the pattern. Compare the first and second responses, then decide which details mattered.
+You usually do not need one perfect prompt. Good prompting is a conversation.
 
 > [!IMPORTANT]
-> **Remember:** A good prompt is a clear assignment.
+> **Remember:** You decide where you're going. A good prompt gives AI better directions.
 
 ## 📎 Examples
 
