@@ -22,7 +22,7 @@ Use AI to become more capable, not more dependent. Set the goal, supply judgment
 
 | # | Section | What it covers |
 | --- | --- | --- |
-| 1 | [🧭 Start Here](01-start-here/README.md) | The mindset, the five-step loop, a one-page cheat sheet |
+| 1 | [🧭 Start Here: Stay in the Driver's Seat](01-start-here/README.md) | The mindset, the five-step loop, a one-page cheat sheet |
 | 2 | [🗣️ Prompting & Context](02-prompting-and-context/README.md) | How to ask for what you actually need |
 | 3 | [🎓 Learning With AI](03-learning-with-ai/README.md) | Using AI as a coach instead of an answer machine |
 | 4 | [🔍 Research & Verification](04-research-and-verification/README.md) | Following evidence, not confident-sounding claims |
