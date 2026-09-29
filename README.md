@@ -14,6 +14,9 @@ Learning to use AI is a little like learning to drive. Knowing what every button
 
 Use AI to become more capable, not more dependent. Set the goal, supply judgment, check important work, and own the final decision.
 
+**Who this is for:** students and anyone learning to think and work with AI tools.
+**New here?** Start with [🧭 Start Here](01-start-here/README.md) — everything else builds on it.
+
 ## 🔁 The five-step loop
 
 **Define the goal → Give context → Explore → Check → Decide**

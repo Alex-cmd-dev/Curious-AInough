@@ -4,6 +4,8 @@
 
 _Optional deep dive: understand what the system can actually do._
 
+**Jump to:** [LLM](#large-language-model-llm) · [Tokens](#tokens) · [Context window](#context-window) · [Retrieval](#retrieval) · [Tools](#tools) · [Skills](#skills) · [MCP](#model-context-protocol-mcp) · [Agents](#agents)
+
 ## Learning path
 
 **Model basics → Context & retrieval → Tools → MCP / skills → Agents → Build or automate something**
