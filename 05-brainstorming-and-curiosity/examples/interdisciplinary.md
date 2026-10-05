@@ -1,12 +1,8 @@
-# 🌐 Interdisciplinary Examples: Brainstorming & Curiosity
+# 💡 Brainstorming Examples
 
 [⬅ Back to Examples](README.md)
 
-# 💡 Brainstorming Examples
-
-[⬅ Back to Brainstorming & Curiosity](../README.md)
-
-Two examples: a general outline you can use on any idea, then a practical example from computer science. The AI responses are illustrative. Your own chat will differ, and that's fine.
+A reusable outline and two examples: a study group and a campus study-room app. The AI responses are illustrative. Your own chat will differ, and that's fine.
 
 ---
 

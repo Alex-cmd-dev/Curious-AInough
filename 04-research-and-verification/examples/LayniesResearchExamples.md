@@ -1,5 +1,7 @@
 # Research and Verification: My Examples
 
+[⬅ Back to Examples](README.md)
+
 Elevate Your Thinking workshop, research and verification section.
 
 **Core idea:** AI can suggest search terms, questions, and possible sources. Treat those as leads, not conclusions. Evidence and your own checking decide what to trust.

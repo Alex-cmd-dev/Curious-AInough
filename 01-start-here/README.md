@@ -34,7 +34,7 @@ Before using AI, ask:
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for how the five-step loop looks across different fields, plus room to add your own.
+See the [examples](examples/README.md) hub for how the five-step loop looks across different fields, plus room to add your own.
 
 ## Next steps
 

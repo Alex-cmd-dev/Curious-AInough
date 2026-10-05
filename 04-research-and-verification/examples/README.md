@@ -2,14 +2,14 @@
 
 [⬅ Back to Research & Verification](../README.md)
 
-This folder is a hub for examples, activities, and challenges for this section. More categories will be added over time.
+Choose an example to see how AI leads are checked against evidence.
 
-| Category | What it covers |
+| Example | What it covers |
 | --- | --- |
-| 🌐 [Interdisciplinary Examples](interdisciplinary.md) | What verification looks like across different fields |
-
-More categories (activities, challenges, and others) are coming soon.
+| [Remote work and productivity](LayniesResearchExamples.md#example-1-a-general-example-remote-work) | Check a broad claim against original studies |
+| [Humanoid locomotion research](LayniesResearchExamples.md#example-2-my-research-on-dip-humanoid-locomotion) | Compare papers' claims with a model test |
+| [Cancer bioinformatics research](LayniesResearchExamples.md#example-3-my-cancer-bioinformatics-research) | Trace claims back to papers and dataset documentation |
 
 ## Add your own
 
-Want to add a new category or example? Open a PR and add a new file here, then link it in the table above.
+Want to add an example? Open a PR and add a new file here, then link it in the table above.

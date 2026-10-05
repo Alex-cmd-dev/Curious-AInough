@@ -33,4 +33,4 @@ Do not skip the first attempt, copy an explanation you cannot explain, or treat 
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for what coaching looks like across different fields.
+The [examples](examples/README.md) hub will link to coaching examples as they are added.

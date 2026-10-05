@@ -4,7 +4,7 @@
 
 *A practical guide to learning, creating, and making decisions with AI.*
 
-![Sections](https://img.shields.io/badge/sections-10-8A2BE2) ![Examples](https://img.shields.io/badge/examples-in%20every%20section-2E8B57) ![Level](https://img.shields.io/badge/level-beginner%20friendly-1E90FF) ![Format](https://img.shields.io/badge/format-markdown-orange)
+![Sections](https://img.shields.io/badge/sections-10-8A2BE2) ![Example hubs](https://img.shields.io/badge/example%20hubs-sections%201--7-2E8B57) ![Level](https://img.shields.io/badge/level-beginner%20friendly-1E90FF) ![Format](https://img.shields.io/badge/format-markdown-orange)
 
 ## 🌱 Core idea
 
@@ -36,9 +36,7 @@ Use AI to become more capable, not more dependent. Set the goal, supply judgment
 | 9 | [🧠 Understanding AI Systems](09-understanding-ai-systems/README.md) *(optional)* | How LLMs, tools, MCP, and agents actually work |
 | 10 | [🧰 Tool Directory](10-tool-directory/README.md) | Current student offers and free tiers |
 
-Each numbered folder contains:
-- **`README.md`**: the section's explanation and guidance.
-- **`examples/`**: how the concept plays out across different fields plus room to add your own.
+Each numbered folder has a **`README.md`** with the section's explanation and guidance. Sections 1–7 also have an **`examples/`** hub for examples and contributions.
 
 ## 🗺️ The journey in one page
 

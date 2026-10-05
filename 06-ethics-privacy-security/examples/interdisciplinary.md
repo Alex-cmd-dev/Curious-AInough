@@ -1,10 +1,6 @@
-# 🌐 Interdisciplinary Examples: Ethics, Privacy & Security
-
-[⬅ Back to Examples](README.md)
-
 # 🔒 Ethics, Privacy & Security Examples
 
-[⬅ Back to Ethics, Privacy & Security](../README.md)
+[⬅ Back to Examples](README.md)
 
 Curious AI-nough? AI Workshop. Ethics, Privacy & Security section by SWE.
 

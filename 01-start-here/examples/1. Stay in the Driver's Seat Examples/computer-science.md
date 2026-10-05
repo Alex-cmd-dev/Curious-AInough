@@ -1,6 +1,6 @@
 # Computer Science: Stay in the Driver's Seat
 
-[Back to examples](README.md)
+[Back to examples](../README.md)
 
 **Remember:** You set the goal. AI assists. You decide.
 

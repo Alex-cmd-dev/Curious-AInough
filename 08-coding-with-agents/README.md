@@ -30,7 +30,3 @@ A coding agent may inspect files, change code, run commands, and test a project.
 
 > [!IMPORTANT]
 > **Remember:** An agent can write code. You still own the result.
-
-## 📎 Examples
-
-See the [examples](examples/) folder for what this looks like across different fields, not just software.

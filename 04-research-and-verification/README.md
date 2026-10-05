@@ -38,4 +38,4 @@ Check these before citing a source:
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for what verification looks like across different fields.
+See the [examples](examples/README.md) hub for what verification looks like across different fields.

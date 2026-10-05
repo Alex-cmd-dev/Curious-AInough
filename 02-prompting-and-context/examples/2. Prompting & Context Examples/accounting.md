@@ -1,6 +1,6 @@
 # Accounting: Give Good Directions
 
-[Back to prompting examples](README.md)
+[Back to prompting examples](../README.md)
 
 **Remember:** You decide where you're going. A good prompt gives AI better directions.
 

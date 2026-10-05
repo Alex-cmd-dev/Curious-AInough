@@ -45,4 +45,4 @@ You usually do not need one perfect prompt. Good prompting is a conversation.
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for worked "before and after" prompts across different fields.
+See the [examples](examples/README.md) hub for worked "before and after" prompts across different fields.

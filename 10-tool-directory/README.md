@@ -39,7 +39,3 @@ A **free tier** is an ongoing, limited option. A **trial** ends. A **student off
 
 > [!WARNING]
 > Offers, eligibility, geography, pricing, quotas, and deadlines can change. Re-check official links immediately before presenting.
-
-## 📎 Examples
-
-See the [examples](examples/) folder for how to compare tools for a specific task, across different fields.

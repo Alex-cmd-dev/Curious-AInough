@@ -2,13 +2,7 @@
 
 [⬅ Back to Learning With AI](../README.md)
 
-This folder is a hub for examples, activities, and challenges for this section. More categories will be added over time.
-
-| Category | What it covers |
-| --- | --- |
-| 🌐 [Interdisciplinary Examples](interdisciplinary.md) | What coaching looks like across different fields |
-
-More categories (activities, challenges, and others) are coming soon.
+Examples for this section are coming soon. When they are added, their links will appear here.
 
 ## Add your own
 

@@ -32,4 +32,4 @@ Do not outsource the original thought or the final judgment. The point is to mak
 
 ## 📎 Examples
 
-See the [examples](examples/) folder for what this looks like across different fields.
+See the [examples](examples/README.md) hub for what this looks like across different fields.
