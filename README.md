@@ -1,22 +1,8 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
-**Using AI to Learn, Question, Create, and Grow**
-
 *A practical guide to learning, creating, and making decisions with AI.*
 
 Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking—something no one can take away from you. If you're curious AInough, [start here](01-start-here/README.md) and see where it takes you.
-
-![Sections](https://img.shields.io/badge/sections-10-8A2BE2) ![Example hubs](https://img.shields.io/badge/example%20hubs-sections%201--7-2E8B57) ![Level](https://img.shields.io/badge/level-beginner%20friendly-1E90FF) ![Format](https://img.shields.io/badge/format-markdown-orange)
-
-## 🌱 Core idea
-
-Learning to use AI is a little like learning to drive. Knowing what every button does helps, but you also need a destination, attention to the road, and the judgment to change course. AI tools will change. These habits will remain useful:
-
-**Set a goal, give useful context, explore options, check important claims, and decide for yourself.**
-
-Use AI to become more capable, not more dependent. Set the goal, supply judgment, check important work, and own the final decision.
-
-**Who this is for:** students and anyone learning to think and work with AI tools.
 
 ## 🔁 The five-step loop
 
@@ -37,26 +23,6 @@ Use AI to become more capable, not more dependent. Set the goal, supply judgment
 | 9 | [🧠 Large Language Models](09-large-language-models/README.md) | How LLMs, tools, MCP, and agents work together |
 | 10 | [🧰 Tool Directory](10-tool-directory/README.md) | Current student offers and free tiers |
 
-Each numbered folder has a **`README.md`** with the section's explanation and guidance. Sections 1–7 also have an **`examples/`** hub for examples and contributions.
-
-## 🗺️ The journey in one page
-
-1. Set a clear goal and share only the context needed.
-2. Ask AI for explanations, options, hints, and constructive challenges.
-3. Practice the skill yourself; check whether you can explain the result.
-4. Open important sources and verify the claims you use.
-5. Respect privacy, consent, academic rules, and other people affected by the work.
-6. Review and test anything an agent changes or an automation produces.
-7. Choose tools and permissions deliberately, and check current offer terms.
-
-> [!IMPORTANT]
-> **Stay curious. Keep thinking. Become more capable because of AI.**
-
 ## 🔗 Further reading
 
 - [🔗 Official Resources & Further Reading](official-resources.md): outside links on how AI works, learning frameworks, and official student-offer documentation.
-
-## ⏳ Keep current
-
-> [!NOTE]
-> Tool offers, pricing, eligibility, quotas, security guidance, and official documentation change over time. Verify current information from official sources before presenting it to students. See [🧰 Tool Directory](10-tool-directory/README.md) for the current snapshot and how to check it.
