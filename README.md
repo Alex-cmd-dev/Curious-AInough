@@ -4,7 +4,7 @@
 
 Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking—something no one can take away from you. If you're curious AInough, [start here](01-start-here/README.md) and see where it takes you.
 
-<img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320">
+<img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
 
 ## 🔁 The five-step loop
 
