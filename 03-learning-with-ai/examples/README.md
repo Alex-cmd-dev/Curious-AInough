@@ -7,6 +7,7 @@ Choose an example to see AI used to explain an idea and question a step.
 | Example | What it covers |
 | --- | --- |
 | [Probability density and rocket thrust](probability-density-and-rocket-thrust.md) | Explore exact probabilities and question a rocket-thrust equation |
+| [Challenge: Learn photosynthesis with AI](learn-photosynthesis-with-ai.md) | Use AI coaching to understand and explain photosynthesis |
 
 ## Add your own
 
