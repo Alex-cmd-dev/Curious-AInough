@@ -1,12 +1,15 @@
-# 🤖 8. Coding With Agents (Optional)
+# 🤖 8. Coding With Agents
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../07-creating-and-automation/README.md) · [Next: Understanding AI Systems ➡](../09-understanding-ai-systems/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../07-creating-and-automation/README.md) · [Next: Large Language Models ➡](../09-large-language-models/README.md)
 
-_Optional section for students who code._
+For students working with coding agents.
 
 ## Core idea
 
 A coding agent may inspect files, change code, run commands, and test a project. It can help plan and change software, but the developer remains responsible for permissions, review, testing, security, and maintainability.
+
+> [!WARNING]
+> Codex, Claude Code, and similar tools can read or change files and run commands on the computer or environment you give them access to. A mistaken action could delete work, break a project, or expose private data. Work in a dedicated project folder, keep a recoverable copy, review permission requests, and inspect changes before accepting them.
 
 ## Safe workflow
 

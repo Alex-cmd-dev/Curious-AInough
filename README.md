@@ -32,8 +32,8 @@ Use AI to become more capable, not more dependent. Set the goal, supply judgment
 | 5 | [💡 Brainstorming & Curiosity](05-brainstorming-and-curiosity/README.md) | Developing and stress-testing your own ideas |
 | 6 | [🔐 Ethics, Privacy & Security](06-ethics-privacy-security/README.md) | Protecting data and working fairly |
 | 7 | [⚙️ Creating & Automation](07-creating-and-automation/README.md) | Turning repetitive work into a reviewed process |
-| 8 | [🤖 Coding With Agents](08-coding-with-agents/README.md) *(optional)* | Working safely with AI coding agents |
-| 9 | [🧠 Understanding AI Systems](09-understanding-ai-systems/README.md) *(optional)* | How LLMs, tools, MCP, and agents actually work |
+| 8 | [🤖 Coding With Agents](08-coding-with-agents/README.md) | Working safely with AI coding agents |
+| 9 | [🧠 Large Language Models](09-large-language-models/README.md) | How LLMs, tools, MCP, and agents work together |
 | 10 | [🧰 Tool Directory](10-tool-directory/README.md) | Current student offers and free tiers |
 
 Each numbered folder has a **`README.md`** with the section's explanation and guidance. Sections 1–7 also have an **`examples/`** hub for examples and contributions.

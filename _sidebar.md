@@ -7,6 +7,6 @@
 - [6. Ethics, Privacy & Security](/06-ethics-privacy-security/README.md)
 - [7. Creating & Automation](/07-creating-and-automation/README.md)
 - [8. Coding With Agents](/08-coding-with-agents/README.md)
-- [9. Understanding AI Systems](/09-understanding-ai-systems/README.md)
+- [9. Large Language Models](/09-large-language-models/README.md)
 - [10. Tool Directory](/10-tool-directory/README.md)
 - [🔗 Further Reading](/official-resources.md)

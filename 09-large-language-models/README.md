@@ -1,8 +1,8 @@
-# 🧠 9. Understanding AI Systems (Optional)
+# 🧠 9. Large Language Models
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../08-coding-with-agents/README.md) · [Next: Tool Directory ➡](../10-tool-directory/README.md)
 
-_Optional deep dive: understand what the system can actually do._
+How language models work, and what connected tools and agents let them do.
 
 **Jump to:** [LLM](#large-language-model-llm) · [Tokens](#tokens) · [Context window](#context-window) · [Retrieval](#retrieval) · [Tools](#tools) · [Skills](#skills) · [MCP](#model-context-protocol-mcp) · [Agents](#agents)
 
