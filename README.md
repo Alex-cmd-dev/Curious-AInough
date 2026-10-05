@@ -4,6 +4,8 @@
 
 *A practical guide to learning, creating, and making decisions with AI.*
 
+Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking—something no one can take away from you. If you're curious AInough, [start here](01-start-here/README.md) and see where it takes you.
+
 ![Sections](https://img.shields.io/badge/sections-10-8A2BE2) ![Example hubs](https://img.shields.io/badge/example%20hubs-sections%201--7-2E8B57) ![Level](https://img.shields.io/badge/level-beginner%20friendly-1E90FF) ![Format](https://img.shields.io/badge/format-markdown-orange)
 
 ## 🌱 Core idea
@@ -15,7 +17,6 @@ Learning to use AI is a little like learning to drive. Knowing what every button
 Use AI to become more capable, not more dependent. Set the goal, supply judgment, check important work, and own the final decision.
 
 **Who this is for:** students and anyone learning to think and work with AI tools.
-**New here?** Start with [🧭 Start Here](01-start-here/README.md) — everything else builds on it.
 
 ## 🔁 The five-step loop
 
