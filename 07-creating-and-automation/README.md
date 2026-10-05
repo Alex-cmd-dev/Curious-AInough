@@ -31,4 +31,4 @@ You should understand the result well enough to inspect it, question it, improve
 
 ## 📎 Examples
 
-The [examples](examples/README.md) hub will link to workflow examples as they are added.
+Visit the [examples](examples/README.md) hub for a weekly market briefing workflow.

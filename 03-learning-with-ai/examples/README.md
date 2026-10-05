@@ -2,7 +2,11 @@
 
 [⬅ Back to Learning With AI](../README.md)
 
-Examples for this section are coming soon. When they are added, their links will appear here.
+Choose an example to see AI used to explain an idea and question a step.
+
+| Example | What it covers |
+| --- | --- |
+| [Probability density and rocket thrust](probability-density-and-rocket-thrust.md) | Explore exact probabilities and question a rocket-thrust equation |
 
 ## Add your own
 

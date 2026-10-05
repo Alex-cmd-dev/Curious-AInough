@@ -33,4 +33,4 @@ Do not skip the first attempt, copy an explanation you cannot explain, or treat 
 
 ## 📎 Examples
 
-The [examples](examples/README.md) hub will link to coaching examples as they are added.
+Visit the [examples](examples/README.md) hub to see the learning loop in action.

@@ -2,7 +2,11 @@
 
 [⬅ Back to Creating & Automation](../README.md)
 
-Examples for this section are coming soon. When they are added, their links will appear here.
+Choose an example to see how a recurring task becomes a reviewed workflow.
+
+| Example | What it covers |
+| --- | --- |
+| [Weekly market briefing](weekly-market-briefing.md) | Schedule a U.S. market update, prepare a consistent draft, and review it before use |
 
 ## Add your own
 
