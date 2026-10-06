@@ -2,14 +2,14 @@
 
 [⬅ Back to Prompting & Context](../README.md)
 
-Choose a field to see how a vague request becomes a useful prompt.
+Choose an example to see how a vague request becomes a useful prompt.
 
 | Example | What it covers |
 | --- | --- |
-| [Accounting](2.%20Prompting%20%26%20Context%20Examples/accounting.md) | Ask about a bank balance discrepancy |
-| [Computer science](2.%20Prompting%20%26%20Context%20Examples/computer-science.md) | Describe a program crash and request a small fix |
-| [Engineering](2.%20Prompting%20%26%20Context%20Examples/engineering.md) | Give the constraints for a bridge design |
-| [Finance](2.%20Prompting%20%26%20Context%20Examples/finance.md) | Ask for realistic savings plans |
+| [Bank balance discrepancy](2.%20Prompting%20%26%20Context%20Examples/bank-balance-discrepancy.md) | Ask about a bank balance discrepancy |
+| [Program crashes on empty input](2.%20Prompting%20%26%20Context%20Examples/program-crashes-on-empty-input.md) | Describe a program crash and request a small fix |
+| [Popsicle-stick bridge](2.%20Prompting%20%26%20Context%20Examples/popsicle-stick-bridge.md) | Give the constraints for a bridge design |
+| [Save for a spring break trip](2.%20Prompting%20%26%20Context%20Examples/save-for-spring-break-trip.md) | Ask for realistic savings plans |
 
 ## Add your own
 
