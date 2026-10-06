@@ -25,6 +25,15 @@ Artificial intelligence is here to stay, whether we like it or not. That's a rea
 | 9 | [🧠 Large Language Models](09-large-language-models/README.md) | How LLMs, tools, MCP, and agents work together |
 | 10 | [🧰 Tool Directory](10-tool-directory/README.md) | Current student offers and free tiers |
 
+## 🤝 How to contribute
+
+There are two ways to add to this guide:
+
+1. **Add an example, challenge, or activity to an existing section.** Put it in that section's `examples/` folder and link to it from the section's `examples/README.md` hub. Make sure it applies what the section teaches, rather than just sharing something related to the topic.
+2. **Add a new topic.** Give it a memorable core idea and practical guidance, following the structure of the existing sections. If it needs examples, create an examples hub and link each example there. Add the topic to this overview and the sidebar so readers can find it.
+
+Keep explanations straightforward and easy to understand. Analogies can help, but keep them accurate. Aim for a useful length rather than a long one; add detail when the topic genuinely needs it. When your change is ready, open a pull request.
+
 ## 🔗 Further reading
 
 - [🔗 Official Resources & Further Reading](official-resources.md): outside links on how AI works, learning frameworks, and official student-offer documentation.
