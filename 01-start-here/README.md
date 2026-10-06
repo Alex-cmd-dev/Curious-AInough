@@ -39,6 +39,6 @@ See the [examples](examples/README.md) hub for how the five-step loop looks acro
 ## Next steps
 
 - Need a better request? Read [🗣️ Prompting & Context](../02-prompting-and-context/README.md).
-- Trying to learn? Read [🎓 Learning With AI](../03-learning-with-ai/README.md).
+- Trying to learn? Read [🌱 Learning With AI](../03-learning-with-ai/README.md).
 - Checking information? Read [🔍 Research & Verification](../04-research-and-verification/README.md).
 - Developing an idea? Read [💡 Brainstorming & Curiosity](../05-brainstorming-and-curiosity/README.md).

@@ -2,6 +2,9 @@
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Brainstorming & Curiosity](../05-brainstorming-and-curiosity/README.md) · [Next: Creating & Automation ➡](../07-creating-and-automation/README.md)
 
+> [!NOTE]
+> **Students:** If you use this guide for schoolwork, check your course and assignment rules before using AI. Only share class or personal information with a tool when you have permission to do so.
+
 ## Core idea
 
 Responsibility stays with the person using the tool. Protect sensitive information and increase scrutiny when your work affects other people.
@@ -9,7 +12,7 @@ Responsibility stays with the person using the tool. Protect sensitive informati
 ## Topics this section covers
 
 - Sensitive and personal data
-- Academic integrity and disclosure
+- Rules for school, work, and disclosure
 - Bias and unequal impact
 - Consent and representation
 - Copyright and provenance
@@ -27,9 +30,9 @@ Ask who could be harmed by an error, whether the result can be checked, whether 
 
 Watch for bias and missing perspectives, especially when a response concerns people. Having access to a person's writing, image, or voice does not automatically grant permission to reuse it. Check ownership, consent, and attribution before publishing AI-assisted work.
 
-## Academic and workplace rules
+## Rules for school and work
 
-Check your class or workplace rules before using AI on an assignment. They may allow brainstorming or feedback while requiring you to do the final work yourself. When the rules are unclear, ask the person who set them.
+Check the rules that apply before using AI on schoolwork or a work task. They may allow brainstorming or feedback while requiring you to do the final work yourself. When the rules are unclear, ask the person who set them.
 
 For consequential tasks, keep a human review step. You remain responsible for what you submit, send, or publish.
 

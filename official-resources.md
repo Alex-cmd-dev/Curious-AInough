@@ -2,7 +2,7 @@
 
 [⬅ Back to overview](README.md)
 
-*Resource links checked September 22, 2026.*
+*Resource links checked September 22, 2026.* Check each provider's site for current features and terms.
 
 ## How AI works and how to use it
 
@@ -20,7 +20,13 @@
 - [UNESCO: AI and the futures of learning](https://www.unesco.org/en/digital-education/ai-future-learning): links to its guidance on generative AI in education and research.
 - [OpenAI Academy: Using ChatGPT](https://openai.com/academy/using-chatgpt/): practical learning resources.
 
-## Official student offers and tool documentation
+## Tool documentation
+
+- [ChatGPT](https://chatgpt.com/), [Codex](https://developers.openai.com/learn/codex), [Claude](https://claude.ai/), and [Gemini](https://gemini.google.com/)
+- [GitHub Copilot](https://github.com/features/copilot), [JetBrains AI](https://www.jetbrains.com/ai-ides/), [Cursor](https://cursor.com/), and [Google Antigravity](https://antigravity.google/pricing)
+- [Anthropic pricing](https://www.anthropic.com/pricing) and [Claude Code setup](https://docs.anthropic.com/en/docs/claude-code/getting-started)
+
+## Student offers
 
 - [ChatGPT Back to School offer](https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students)
 - [Codex for Students](https://developers.openai.com/community/students)
@@ -28,8 +34,6 @@
 - [GitHub Education for students](https://github.com/education/students)
 - [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) and [JetBrains AI plans](https://www.jetbrains.com/help/ai-assistant/licensing-and-subscriptions.html)
 - [Cursor for students](https://cursor.com/students)
-- [Anthropic pricing](https://www.anthropic.com/pricing) and [Claude Code setup](https://docs.anthropic.com/en/docs/claude-code/getting-started)
-- [Google Antigravity pricing](https://antigravity.google/pricing)
 
 > [!NOTE]
-> **Reminder:** offers, eligibility, geography, pricing, quotas, and deadlines change. Re-check official links before presenting or acting on them. See the [🧰 Tool Directory](10-tool-directory/README.md) for how to evaluate an offer.
+> **Reminder:** offers, eligibility, geography, pricing, quotas, and deadlines change. Re-check official links before acting on them. See the [🧰 Tool Directory](10-tool-directory/README.md) for how to evaluate access.

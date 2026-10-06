@@ -2,6 +2,9 @@
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Learning With AI](../03-learning-with-ai/README.md) · [Next: Brainstorming & Curiosity ➡](../05-brainstorming-and-curiosity/README.md)
 
+> [!NOTE]
+> **Students:** If you use this guide for schoolwork, check your course's citation and AI-use rules before relying on AI for research. Cite only sources you have opened and read.
+
 ## Core idea
 
 AI can suggest search terms, questions, and possible sources. Treat those as leads, not conclusions. Use evidence and your own checking to decide what to trust.
@@ -22,7 +25,7 @@ Check these before citing a source:
 1. Does the source exist, and can I open it?
 2. Does it actually contain the information?
 3. Does that information support this specific claim?
-4. Is it suitable for the decision or assignment?
+4. Is it suitable for the question or decision at hand?
 
 - Did I open the source, or only see it mentioned by AI?
 - Could the wording, context, or citation be misleading?

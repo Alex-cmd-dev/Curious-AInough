@@ -42,7 +42,7 @@ Here are the words you'll hear most often, explained in plain language with an e
 
 **What it is:** Bringing outside information into the conversation instead of relying only on what the model memorized during training: for example, pulling in the text of a document you uploaded, search results from the web, or rows from a database before answering.
 
-**Like:** The difference between a closed-book exam (answering from memory alone) and an open-book exam (allowed to check the actual source). Retrieval is what lets a tool discuss a specific PDF, a live webpage, or today's data, instead of only what it learned back when it was trained.
+**Like:** The difference between answering from memory alone and answering with the actual source open in front of you. Retrieval is what lets a tool discuss a specific PDF, a live webpage, or today's data, instead of only what it learned back when it was trained.
 
 ### Tools
 

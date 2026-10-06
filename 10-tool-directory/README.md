@@ -2,24 +2,23 @@
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Large Language Models](../09-large-language-models/README.md)
 
-## Purpose
+## Start with the task
 
-Choose a tool for the task: a general assistant for explanation and drafting, a coding tool for a software project, or a research workflow for sources you can inspect. You do not need every subscription.
+You do not need every tool or subscription. Choose one that fits what you want to do, then check its current features, data controls, access terms, and cost on the provider's site.
 
-The offers below are a **September 22, 2026 snapshot**; check the linked terms when you sign up. Availability, geography, quotas, and billing can change.
-
-## Current student offers and access
-
-| Tool | Good starting point | Access and conditions to check |
+| If you want to... | Consider | What to check before using it |
 | --- | --- | --- |
-| 💬 [ChatGPT](https://help.openai.com/en/articles/20001493-chatgpt-back-to-school-offer-for-students) | General learning, writing, and working with files | Eligible students at U.S. degree-granting colleges can claim four free monthly billing periods of Plus by **October 31, 2026**. SheerID verification and a payment method are required; it renews at **$20/month** unless canceled. Store-billed subscriptions have restrictions. |
-| 💻 [OpenAI Codex](https://developers.openai.com/community/students) | Working on a codebase with an agent | Verified university students enrolled and residing in the U.S. or Canada may claim **$100 in ChatGPT credits for Codex**. These are not API credits and expire 12 months after the grant. |
-| ✨ [Google AI student offer](https://one.google.com/offer/studentoffer8) | Gemini and the Google AI plan offered in your region | Eligible higher-education students may get **12 months at no charge**; the included plan depends on the institution's region. The current terms say redeem by **December 31, 2026**, require SheerID and a qualifying payment method, list geographic exclusions, and describe renewal billing. |
-| 🐙 [GitHub Copilot Student](https://github.com/education/students) | Code suggestions and assistance in supported editors | Free for verified students under the Copilot Student plan, with plan limits. Check your [GitHub Education benefits](https://education.github.com/pack). |
-| 🧩 [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | Learning to code in IntelliJ IDEA, PyCharm, WebStorm, and other IDEs | Verified students can get free IDE licenses for noncommercial educational use. The pack describes a **limited JetBrains AI trial**; AI Pro or Ultimate is not automatically included for the whole student license. Check [AI plan and quota details](https://www.jetbrains.com/help/ai-assistant/licensing-and-subscriptions.html). |
-| 🖱️ [Cursor](https://cursor.com/students) | An AI-focused code editor | Anyone can start free. Its current student page points to campus and event promotions for upgraded access; do not assume a universal free Pro offer. |
-| 🟣 [Claude and Claude Code](https://www.anthropic.com/pricing) | General assistance; code work through Claude Code | Claude has a free consumer plan. Check the current [Claude Code setup and billing options](https://docs.anthropic.com/en/docs/claude-code/getting-started) for coding access; a general free Claude account does not establish free Claude Code entitlement. |
-| 🚀 [Google Antigravity](https://antigravity.google/pricing) | Agent-based software development | Its individual plan is **$0/month** with weekly rate limits. It is separate from the Google AI student offer; paid Google AI plans can change quotas. |
+| Ask questions, draft, or work with files | [ChatGPT](https://chatgpt.com/), [Claude](https://claude.ai/), or [Gemini](https://gemini.google.com/) | Whether it can use your files, how it handles your data, and which features your plan includes |
+| Find and compare sources | [Perplexity](https://www.perplexity.ai/), [NotebookLM](https://notebooklm.google.com/), or a general assistant with search | Open the original sources yourself; check dates, citations, and what the source actually says |
+| Work on a codebase | [Codex](https://developers.openai.com/learn/codex), [Claude Code](https://docs.anthropic.com/en/docs/claude-code/getting-started), [GitHub Copilot](https://github.com/features/copilot), or [Cursor](https://cursor.com/) | File and command permissions, supported editors, usage limits, and how you will review changes |
+| Build software with an agent-first editor | [Google Antigravity](https://antigravity.google/pricing) | Its individual plan was $0/month with weekly rate limits when last checked; confirm current limits and how paid Google AI plans change quotas |
+| Use AI inside a development environment | [JetBrains AI](https://www.jetbrains.com/ai-ides/) or another editor's AI features | Whether the tool supports your IDE, what data it sends, and how access is billed |
+
+These are examples, not endorsements. Links and access terms were last checked September 22, 2026. Features and access change, so use each provider's documentation for a current comparison.
+
+## Students: check education offers separately
+
+Some providers offer education-specific access. Eligibility, geography, verification, deadlines, credits, and renewal terms vary. Start with the [official student-offer links](../official-resources.md#student-offers) and confirm the terms before signing up. The general tool choices above apply whether or not you are a student.
 
 ## Know your terms
 
@@ -28,14 +27,9 @@ A **free tier** is an ongoing, limited option. A **trial** ends. A **student off
 > [!IMPORTANT]
 > **Remember:** Choose a tool that serves your goal, and understand the terms before signing up.
 
-## Before publishing a new entry
+## Before adding a new entry
 
-- Link to the official source.
-- Record the date checked.
-- Verify geography and student eligibility.
-- State verification, payment, renewal, quota, and cancellation requirements.
-- Separate free access from trials, credits, discounts, and paid plans.
+- Link to the provider's official page.
+- Explain the task it helps with and a meaningful limitation.
+- Check current access, geography, quotas, payment, and cancellation terms.
 - Note whether the tool handles sensitive data or requires additional permissions.
-
-> [!WARNING]
-> Offers, eligibility, geography, pricing, quotas, and deadlines can change. Re-check official links immediately before presenting.

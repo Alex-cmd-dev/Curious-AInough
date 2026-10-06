@@ -2,7 +2,7 @@
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../07-creating-and-automation/README.md) · [Next: Large Language Models ➡](../09-large-language-models/README.md)
 
-For students working with coding agents.
+For anyone working with coding agents on a personal, school, or work project.
 
 ## Core idea
 

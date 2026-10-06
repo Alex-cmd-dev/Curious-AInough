@@ -1,10 +1,10 @@
-# 🎓 3. Learning With AI: Use a Coach
+# 🌱 3. Learning With AI: Use a Coach
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Prompting & Context](../02-prompting-and-context/README.md) · [Next: Research & Verification ➡](../04-research-and-verification/README.md)
 
 ## Core idea
 
-Use AI to become more capable, not to avoid thinking. If someone else lifts every weight at the gym, you do not get stronger. The same can happen when AI completes every step of an assignment.
+Use AI to become more capable, not to avoid thinking. If someone else lifts every weight at the gym, you do not get stronger. The same can happen when AI completes every step of a task you want to understand.
 
 ## Productive learning loop
 
@@ -13,7 +13,7 @@ Use AI to become more capable, not to avoid thinking. If someone else lifts ever
 1. Attempt the problem or explanation yourself, even if your attempt is rough.
 2. Ask for a hint, question, example, or next step before asking for the answer.
 3. Explain the idea in your own words.
-4. Test yourself with a new problem, recall question, or oral-exam-style prompt.
+4. Test yourself with a new problem, recall question, or a prompt that asks you to explain the idea out loud.
 5. Reflect on what you understand and what still needs work.
 
 ## Useful requests
@@ -22,7 +22,7 @@ Use AI to become more capable, not to avoid thinking. If someone else lifts ever
 - "Ask me questions that help me find the mistake."
 - "Explain this at my level, then ask me to explain it back."
 - "Create three new problems that test the same concept."
-- "What would an instructor ask next?"
+- "What question would test whether I really understand this?"
 
 ## Avoid
 
