@@ -16,3 +16,5 @@ When your change is ready, open a pull request:
 1. Fork the repository, or use the pencil (edit) button on any file on GitHub, which forks it for you.
 2. Make your change.
 3. Choose **Propose changes** or **Create pull request**, and add a one-line description of what you changed.
+
+By opening a pull request, you agree that your contribution can be shared under the guide's [license](https://github.com/Alex-cmd-dev/Curious-AInough/blob/main/LICENSE) (CC BY 4.0).
