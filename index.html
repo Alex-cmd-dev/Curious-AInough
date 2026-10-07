@@ -40,9 +40,29 @@
       cursor: pointer;
     }
     .student-notice button:focus-visible,
-    .student-notice a:focus-visible {
+    .student-notice a:focus-visible,
+    .contribute-bar a:focus-visible {
       outline: 3px solid #f9c846;
       outline-offset: 3px;
+    }
+    .contribute-bar {
+      margin-top: 3rem;
+      padding: 1rem 1.25rem;
+      border: 1px solid #c9d8ed;
+      border-radius: 0.5rem;
+      background: #f4f8fd;
+    }
+    .contribute-bar p {
+      margin: 0 0 0.5rem;
+      font-weight: 600;
+    }
+    .contribute-bar ul {
+      margin: 0;
+      padding-left: 1.25rem;
+    }
+    .contribute-bar a {
+      font-weight: 600;
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -54,6 +74,8 @@
     <button id="student-notice-close" type="button">Continue to guide</button>
   </dialog>
   <script>
+    const repoName = 'Alex-cmd-dev/Curious-AInough';
+
     window.$docsify = {
       name: '🧭 Curious AInough',
       basePath: location.pathname.substring(0, location.pathname.lastIndexOf('/') + 1),
@@ -73,11 +95,29 @@
       flexibleAlerts: {
         style: 'callout'
       },
+      repo: repoName,
       plugins: [
-        function (hook) {
+        function (hook, vm) {
+          hook.afterEach(function (html, next) {
+            next(html + contributeBar(vm.route.file));
+          });
           hook.doneEach(showStudentNoticeForSection);
         }
       ]
+    }
+
+    function contributeBar(file) {
+      const repoUrl = 'https://github.com/' + repoName;
+      const edit = file
+        ? '<li><a href="' + repoUrl + '/edit/main/' + file + '" target="_blank" rel="noopener">✏️ Edit this page on GitHub ↗</a></li>'
+        : '';
+      const onContributePage = file === 'CONTRIBUTING.md';
+      const guide = onContributePage
+        ? '<li><a href="' + repoUrl + '/compare" target="_blank" rel="noopener">🔀 Start a pull request ↗</a></li>'
+        : '<li><a href="#/CONTRIBUTING.md">➕ Add an example or topic</a></li>';
+      return '<div class="contribute-bar"><p>' + (onContributePage ? 'Make a change on GitHub' : 'Help improve this guide') + '</p><ul>' + edit + guide +
+        '<li><a href="' + repoUrl + '" target="_blank" rel="noopener">View the repository on GitHub ↗</a></li>' +
+        '</ul></div>';
     }
 
     // Sections that show the students warning, keyed by folder name.

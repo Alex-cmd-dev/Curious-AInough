@@ -10,3 +10,4 @@
 - [9. Large Language Models](/09-large-language-models/README.md)
 - [10. Tool Directory](/10-tool-directory/README.md)
 - [🔗 Further Reading](/official-resources.md)
+- [🤝 How to Contribute](/CONTRIBUTING.md)
