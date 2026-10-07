@@ -99,23 +99,19 @@
       plugins: [
         function (hook, vm) {
           hook.afterEach(function (html, next) {
-            next(html + contributeBar(vm.route.file));
+            next(html + contributeBar(vm.route.file === 'CONTRIBUTING.md'));
           });
           hook.doneEach(showStudentNoticeForSection);
         }
       ]
     }
 
-    function contributeBar(file) {
+    function contributeBar(onContributePage) {
       const repoUrl = 'https://github.com/' + repoName;
-      const edit = file
-        ? '<li><a href="' + repoUrl + '/edit/main/' + file + '" target="_blank" rel="noopener">✏️ Edit this page on GitHub ↗</a></li>'
-        : '';
-      const onContributePage = file === 'CONTRIBUTING.md';
       const guide = onContributePage
         ? '<li><a href="' + repoUrl + '/compare" target="_blank" rel="noopener">🔀 Start a pull request ↗</a></li>'
         : '<li><a href="#/CONTRIBUTING.md">➕ Add an example or topic</a></li>';
-      return '<div class="contribute-bar"><p>' + (onContributePage ? 'Make a change on GitHub' : 'Help improve this guide') + '</p><ul>' + edit + guide +
+      return '<div class="contribute-bar"><p>' + (onContributePage ? 'Make a change on GitHub' : 'Help improve this guide') + '</p><ul>' + guide +
         '<li><a href="' + repoUrl + '" target="_blank" rel="noopener">View the repository on GitHub ↗</a></li>' +
         '</ul></div>';
     }
