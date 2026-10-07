@@ -10,14 +10,18 @@ SCOPE OF THIS LICENSE
 - The site code (index.html) is licensed under the MIT License. See the
   LICENSE-MIT file.
 - NOT yet covered by this license: the example files listed below. Their
-  authors keep their rights until each author agrees to a license. Every
-  other example, and all new sections and examples, is covered.
+  authors keep their rights until each author agrees to a license.
     * 01-start-here/examples/1. Stay in the Driver's Seat Examples/ (all files)
     * 02-prompting-and-context/examples/2. Prompting & Context Examples/ (all files)
     * 03-learning-with-ai/examples/probability-density-and-rocket-thrust.md
     * 04-research-and-verification/examples/LayniesResearchExamples.md
     * 05-brainstorming-and-curiosity/examples/study-group-and-study-room-app.md
     * 06-ethics-privacy-security/examples/academic-integrity-and-company-privacy.md
+- Covered examples: the only existing examples covered are these three, plus
+  any new sections and examples added from now on.
+    * 03-learning-with-ai/examples/learn-photosynthesis-with-ai.md
+    * 07-creating-and-automation/examples/weekly-market-briefing.md
+    * 07-creating-and-automation/examples/automate-weekly-campus-events-digest.md
 - NOT covered by this license: assets/brain.svg, which has its own license
   (CC0 1.0). See assets/README.md.
 
