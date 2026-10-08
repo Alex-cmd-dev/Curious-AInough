@@ -2,7 +2,7 @@
 
 *A practical guide to learning, creating, and making decisions with AI—at work, at school, or on your own.*
 
-Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking—something no one can take away from you. If you're curious AInough, [start here](01-start-here/README.md) and see where it takes you.
+Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking, not give it away. It is something no one can ever take away from you. If you're curious AInough, [start here](01-start-here/README.md) and see where it takes you.
 
 <p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
 
