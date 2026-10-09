@@ -3,12 +3,10 @@ Copyright (c) 2026 Curious AInough contributors
 
 SCOPE OF THIS LICENSE
 
-- The written guide (the Markdown pages in this repository) is licensed under
-  the Creative Commons Attribution 4.0 International license (CC BY 4.0).
-  The full text follows below, and a summary is at
+- Everything in this repository is licensed under the Creative Commons
+  Attribution 4.0 International license (CC BY 4.0), except the items listed
+  below. The full text follows below, and a summary is at
   https://creativecommons.org/licenses/by/4.0/
-- The site code (index.html) is licensed under the MIT License. See the
-  LICENSE-MIT file.
 - NOT yet covered by this license: the example files listed below. Their
   authors keep their rights until each author agrees to a license.
     * 01-start-here/examples/1. Stay in the Driver's Seat Examples/ (all files)
