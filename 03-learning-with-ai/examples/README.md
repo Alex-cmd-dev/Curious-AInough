@@ -2,11 +2,12 @@
 
 [⬅ Back to Learning With AI](../README.md)
 
-Choose an example to see AI used to explain an idea and question a step.
+Choose an example to practice the learning loop: attempt, ask, explain, test, and reflect.
 
 | Example | What it covers |
 | --- | --- |
-| [Probability density and rocket thrust](probability-density-and-rocket-thrust.md) | Explore exact probabilities and question a rocket-thrust equation |
+| [Challenge: Understand probability density with AI](probability-density.md) | Explore exact values and ranges in a continuous model |
+| [Challenge: Understand rocket thrust with AI](rocket-thrust.md) | Question the terms in a rocket-thrust equation |
 | [Challenge: Learn photosynthesis with AI](learn-photosynthesis-with-ai.md) | Use AI coaching to understand and explain photosynthesis |
 
 ## Add your own
