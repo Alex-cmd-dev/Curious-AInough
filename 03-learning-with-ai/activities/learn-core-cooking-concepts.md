@@ -12,12 +12,14 @@ Choose any meal you would like to understand better. It can be as simple as toas
 
 ## Copy this into your AI assistant
 
+Copy the whole activity prompt below and paste it into the AI provider you already use. Stay in that chat to complete the activity and reflection.
+
 ```text
-Teach me core cooking concepts through this meal: [write any meal you choose]. I want to understand how heat, time, moisture, and browning affect the food, not just get a recipe.
+I want to understand how heat, time, moisture, and browning affect food, not just get a recipe. Use [write a meal or food you choose] as the example. If I leave this blank, choose a simple example and tell me what you chose.
 
 Act as a patient coach. Ask me one question at a time. First ask me to predict what would happen if one part of this meal were cooked briefly over high heat versus longer over lower heat. Do not give me the explanation until I try.
 
-After my attempt, give one hint at a time and explain the role of heat, time, and moisture in plain language. Explain that surface browning depends on the food and method; wet surfaces tend to steam until enough moisture evaporates, and food in water cannot get hotter than the boiling point of that liquid at normal conditions. Ask me to explain the idea back in my own words. Then give me a new situation—for example, a crowded pan, a wet ingredient, or a different cooking method—and ask me to predict what might change before you explain. Correct misunderstandings kindly. Distinguish general principles from details that depend on the food, pan, stove, or recipe. If my meal includes meat, poultry, seafood, or eggs, do not use color or timing alone to judge safety; direct me to current official food-safety guidance and a food thermometer where appropriate. Do not tell me to taste food that may be undercooked or unsafe.
+After my attempt, give one hint at a time, then explain the relevant concepts in plain language. Help me reason about how moisture, temperature, time, and the food itself affect browning and texture. Avoid presenting simplified rules as universal: explain what depends on the food, pan, stove, and cooking method, and tell me when you are uncertain. Ask me to explain the idea back in my own words. Then give me a new situation—for example, a crowded pan, a wet ingredient, or a different cooking method—and ask me to predict what might change before you explain. Correct misunderstandings kindly. If my example includes meat, poultry, seafood, or eggs, do not use color or timing alone to judge safety; direct me to current official food-safety guidance and a food thermometer where appropriate. Do not tell me to taste food that may be undercooked or unsafe. At the end, ask me to name one principle I understand, one example that supports it, and one question I still have. I do not need to cook anything; if useful and safe, I can observe someone else preparing food. After the reflection, ask whether I would like a similar learning exercise. If I say yes, use a different food or cooking situation, keep me predicting before explaining, distinguish general principles from context-dependent details, and follow the same food-safety cautions.
 ```
 
 ## Do the activity

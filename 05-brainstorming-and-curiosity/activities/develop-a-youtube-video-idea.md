@@ -12,12 +12,14 @@ Write a one-sentence video idea in your own words. Add two criteria that matter 
 
 ## Copy this into your AI assistant
 
+Copy the whole activity prompt below and paste it into the AI provider you already use. Stay in that chat to complete the activity and reflection.
+
 ```text
 My starting YouTube video idea is: [write your idea here].
 My intended audience is: [describe them briefly].
 My criteria are: [list two things that matter to you].
 
-Suggest three distinct directions I could take this idea. Do not write the script or pick a direction for me. For each direction, point out one assumption I may be making and one question I should investigate. Then make the strongest case against my original idea. End by asking what I want to keep, change, test, or discard.
+Help me explore and challenge the idea while leaving the idea and final decision mine. If any bracketed information is missing, ask me for it before continuing. Suggest three distinct directions I could take this idea. Do not write the script or pick a direction for me. For each direction, point out one assumption I may be making and one question I should investigate. Then make the strongest case against my original idea. Ask which suggestions are genuinely different from my original idea and which assumption or question I want to examine. Help me think it through without deciding for me. Ask who might be affected and what I should check before publishing claims, using someone else's work, or showing other people. Finish by asking what I will keep, change, test, or discard using my criteria, and what small test or feedback could help. After the reflection, ask whether I would like a similar idea-development exercise. If I say yes, use a different creative project and keep the exploration, critique, and final decision with me.
 ```
 
 ## Do the activity

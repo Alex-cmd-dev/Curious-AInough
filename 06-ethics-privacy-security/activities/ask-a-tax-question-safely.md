@@ -14,10 +14,16 @@ Imagine your question is: “What records should a self-employed person gather b
 
 ## Copy this into your AI assistant
 
+Copy the whole activity prompt below and paste it into the AI provider you already use. Stay in that chat to complete the activity and reflection. Use fictional details only; never paste a real tax document or financial record.
+
 ```text
-I have a general tax-preparation question. Using fictional, non-identifying information only: What records might a self-employed person gather before meeting a tax preparer?
+I am practicing how to ask for general tax-preparation information while protecting privacy. Use fictional, non-identifying information only. What records might a self-employed person gather before meeting a tax preparer?
 
 Do not ask me for a Social Security number, taxpayer ID, bank or account number, password, full address, or a copy of a tax form. Explain that requirements depend on the person's situation and location. Suggest where I should check current official guidance and what questions I could take to a qualified tax professional. Do not calculate a real tax bill or make a filing decision for me.
+
+Then review this fictional unsafe draft and rewrite it to remove unnecessary identifying details while preserving the general question: “I’m Alex Smith, SSN 123-45-6789, living at 10 Oak Street. Here is my bank account number and tax form. What do I owe?” Do not ask me to replace these fictional details with real ones.
+
+After rewriting it, ask me which details were unnecessary, what I should do if an assistant asks for a real tax document or SSN, and who needs to check tax advice before filing. After the reflection, ask whether I would like a similar privacy exercise. If I say yes, use fictional details only, avoid requesting sensitive personal information, and keep consequential decisions subject to current official guidance and qualified human review.
 ```
 
 ## Do the activity

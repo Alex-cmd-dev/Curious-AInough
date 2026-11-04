@@ -12,10 +12,12 @@ Write down your goal and one thing you will check yourself, such as whether the 
 
 ## Copy this into your AI assistant
 
-```text
-I want to make a simple dinner tonight. I have pasta, a can of tomatoes, an onion, and frozen peas. I have 30 minutes, one pot, and one pan.
+Copy the whole activity prompt below and paste it into the AI provider you already use. Stay in that chat to complete the activity and reflection.
 
-Help me use this five-step loop. First, restate my goal and the context I gave you. Then suggest two possible meals with short steps and identify anything you need to know or that I should check in my kitchen. Do not assume I have other ingredients or equipment. Finally, ask me to choose or revise a plan; do not choose for me.
+```text
+I want to make a simple dinner tonight. I have pasta, a can of tomatoes, an onion, and frozen peas. I have 30 minutes, one pot, and one pan. I want to make a choice myself, using AI as an assistant.
+
+Guide me through this activity in one step at a time, waiting for my reply before continuing. First ask me to state my goal and one thing I will check myself, such as whether the ingredients are still usable. Then guide me through five steps: define my goal, give context, explore options, check the result, and decide. Restate my goal and context. Suggest two possible meals with short steps, noting anything you need to know or I should check in my kitchen. Do not assume I have other ingredients or equipment. Ask me to choose or revise a plan; do not choose for me. Remind me to check the actual ingredients and any unclear instructions before cooking. At the end, ask which part of the decision came from AI and which required my own observation or judgment, and whether I can explain why the meal fits my goal. At the end, ask whether I would like a similar practice activity using a different meal-planning situation. If I say yes, create one that still follows the five-step loop, keeps my decision and kitchen checks with me, and does not assume ingredients or equipment.
 ```
 
 ## Do the activity

@@ -8,17 +8,19 @@ You want a short weekly briefing about a topic you care about. Design a workflow
 
 ## Copy this into your AI assistant
 
-```text
-Help me design a workflow I could repeat each week to collect news about [choose a topic, such as local public transit].
+Copy the whole activity prompt below and paste it into the AI provider you already use. Stay in that chat to complete the activity and reflection.
 
-First, map the steps from choosing the topic and date range to sharing a reviewed briefing. For each step, say what information or tool access it needs, what could be automated, and where a person should make a decision or check the result.
+```text
+Help me design and test a human-reviewed workflow I could repeat each week to collect news about [choose a topic, such as local public transit]. If I have not provided a topic, ask me to choose one. This is a workflow design exercise; do not access tools, send, or publish anything.
+
+First, ask me to identify the topic and date range I would use. Then map the steps from choosing the topic and date range to preparing a briefing for human review. For each step, say what information or tool access it needs, what could be automated, what could go wrong, and where a person should make a decision or check the result.
 
 Then make a sample briefing from these fictional story records:
 - Monday: “City proposes new bus routes” — Source: City News — link: https://example.com/routes
 - Wednesday: “Transit agency delays route decision” — Source: Metro Desk — link: https://example.com/delay
 - No publication date: “Five ways to improve buses” — Source: Travel Blog — link not provided
 
-Group related stories and summarize what each record says without adding facts that are not in it. Include each provided source and link. Flag the record with no date and link as needing review; do not treat it as confirmed current news. Point out that two stories may describe different stages of the same issue. Do not send or publish the briefing. End with a checklist for a person to review.
+Group related stories and summarize what each record says without adding facts that are not in it. Include each provided source and link. Flag the record with no date and link as needing review; do not treat it as confirmed current news. Point out that two stories may describe different stages of the same issue. Do not send or publish the briefing. End with a checklist for a person to review. Then ask me which steps could repeat each week, what might go wrong if an error repeats, what must be verified before sharing, and how the workflow should respond if a link is missing or dates conflict. Help me add a rule for any failure I identify. Once we have finished the activity and reflection, ask me: “Would you like me to create a similar exercise?” If I say yes, create a new workflow-design exercise that keeps human review, flags uncertainty and missing data, and does not access tools, send, or publish anything.
 ```
 
 ## Do the activity
