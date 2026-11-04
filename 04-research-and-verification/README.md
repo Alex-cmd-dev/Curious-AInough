@@ -39,6 +39,10 @@ Check these before citing a source:
 > [!IMPORTANT]
 > **Remember:** AI can give you clues. Evidence determines what you trust.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice checking claims against evidence.
+
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for what verification looks like across different fields.

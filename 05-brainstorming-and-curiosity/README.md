@@ -30,6 +30,10 @@ Do not outsource the original thought or the final judgment. The point is to mak
 > [!IMPORTANT]
 > **Remember:** Use AI to strengthen your thinking, not just to agree with it.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice expanding and challenging an idea.
+
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for what this looks like across different fields.

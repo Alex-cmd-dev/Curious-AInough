@@ -29,6 +29,10 @@ You should understand the result well enough to inspect it, question it, improve
 > [!IMPORTANT]
 > **Remember:** Automate repetition. Keep judgment.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice designing a reviewed workflow.
+
 ## 📎 Examples
 
 Visit the [examples](examples/README.md) hub for a weekly market briefing workflow.

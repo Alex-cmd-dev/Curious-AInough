@@ -43,6 +43,10 @@ You usually do not need one perfect prompt. Good prompting is a conversation.
 > [!IMPORTANT]
 > **Remember:** You decide where you're going. A good prompt gives AI better directions.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice writing and improving prompts.
+
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for worked "before and after" prompts across different fields.

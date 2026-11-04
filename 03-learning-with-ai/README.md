@@ -31,6 +31,10 @@ Do not skip the first attempt, copy an explanation you cannot explain, or treat 
 > [!IMPORTANT]
 > **Remember:** Use AI to get better at the work, not only faster at finishing it.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice learning with AI.
+
 ## 📎 Examples
 
 Visit the [examples](examples/README.md) hub to see the learning loop in action.

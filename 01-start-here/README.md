@@ -32,6 +32,10 @@ Before using AI, ask:
 > [!IMPORTANT]
 > **Remember:** You set the goal. AI assists. You decide.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice the five-step loop.
+
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for how the five-step loop looks across different fields, plus room to add your own.

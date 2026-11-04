@@ -44,6 +44,10 @@ For consequential tasks, keep a human review step. You remain responsible for wh
 > [!IMPORTANT]
 > **Remember:** More capability calls for more careful judgment.
 
+## 📎 Activities
+
+Try the [activities](activities/README.md) hub to practice protecting privacy and considering others.
+
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for decisions about academic integrity and company data.
