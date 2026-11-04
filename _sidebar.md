@@ -8,6 +8,7 @@
 - [7. Creating & Automation](/07-creating-and-automation/README.md)
 - [8. Coding With Agents](/08-coding-with-agents/README.md)
 - [9. Large Language Models](/09-large-language-models/README.md)
-- [10. Tool Directory](/10-tool-directory/README.md)
+- [10. AI Providers](/10-ai-providers/README.md)
+- [11. Tool Directory](/11-tool-directory/README.md)
 - [🔗 Further Reading](/official-resources.md)
 - [🤝 How to Contribute](/CONTRIBUTING.md)

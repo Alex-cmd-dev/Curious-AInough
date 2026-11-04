@@ -23,7 +23,12 @@ Artificial intelligence is here to stay, whether we like it or not. That's a rea
 | 7 | [⚙️ Creating & Automation](07-creating-and-automation/README.md) | Turning repetitive work into a reviewed process |
 | 8 | [🤖 Coding With Agents](08-coding-with-agents/README.md) | Working safely with AI coding agents |
 | 9 | [🧠 Large Language Models](09-large-language-models/README.md) | How LLMs, tools, MCP, and agents work together |
-| 10 | [🧰 Tool Directory](10-tool-directory/README.md) | Choosing tools, comparing access, and checking terms |
+| 10 | [🧠 AI Providers](10-ai-providers/README.md) | Comparing general-purpose AI assistants and their tradeoffs |
+| 11 | [🧰 Tool Directory](11-tool-directory/README.md) | Choosing tools, comparing access, and checking terms |
+
+## 🧩 Learn by trying
+
+Many sections include worked [examples](01-start-here/examples/README.md) and hands-on [activities](01-start-here/activities/README.md). Open a section to find its examples and activity hubs, then use them to see the ideas in practice and try them yourself.
 
 ## 🤝 How to contribute
 

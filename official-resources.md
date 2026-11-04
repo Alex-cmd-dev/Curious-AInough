@@ -36,4 +36,4 @@
 - [Cursor for students](https://cursor.com/students) — Cursor currently offers free access to start; its student page describes event-based promotions rather than a standing student discount.
 
 > [!NOTE]
-> **Reminder:** offers, eligibility, geography, pricing, quotas, and deadlines change. Re-check official links before acting on them. See the [🧰 Tool Directory](10-tool-directory/README.md) for how to evaluate access.
+> **Reminder:** offers, eligibility, geography, pricing, quotas, and deadlines change. Re-check official links before acting on them. See the [🧰 Tool Directory](11-tool-directory/README.md) for how to evaluate access.

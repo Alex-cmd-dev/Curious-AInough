@@ -1,6 +1,6 @@
 # 🧠 9. Large Language Models
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../08-coding-with-agents/README.md) · [Next: Tool Directory ➡](../10-tool-directory/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../08-coding-with-agents/README.md) · [Next: AI Providers ➡](../10-ai-providers/README.md)
 
 How language models work, and what connected tools and agents let them do.
 
