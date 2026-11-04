@@ -32,3 +32,7 @@ Help me explore and challenge the idea while leaving the idea and final decision
 ## Check your understanding
 
 Which suggestion widened your thinking? Which criticism was useful, and what evidence or feedback could help you decide whether to act on it?
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

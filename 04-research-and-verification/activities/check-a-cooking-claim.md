@@ -28,3 +28,7 @@ I want to practice checking a claim instead of relying on a confident answer. Fi
 ## Check your understanding
 
 Can you point to the exact part of each opened source that supports your conclusion? What would you say if the sources disagree or are too weak to settle the question?
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

@@ -37,3 +37,7 @@ Can you explain why changing heat, time, moisture, or cooking method can change 
 
 - [Exploratorium: Science of Cooking](https://annex.exploratorium.edu/cooking/): approachable explanations of how heat and water affect food.
 - [FoodSafety.gov: Safe Minimum Internal Temperatures](https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures): official guidance for cooking foods that need a safe internal temperature.
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

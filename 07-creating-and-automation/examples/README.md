@@ -12,3 +12,7 @@ Choose an example to see how a recurring task becomes a reviewed workflow.
 ## Add your own
 
 Want to add a new category or example? Open a PR and add a new file here, then link it in the table above.
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

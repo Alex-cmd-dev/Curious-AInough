@@ -34,6 +34,10 @@ Many sections include worked [examples](01-start-here/examples/README.md) and ha
 
 Want to add an example or a new topic? See [🤝 How to contribute](CONTRIBUTING.md).
 
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
 ## 🔗 Further reading
 
 - [🔗 Official Resources & Further Reading](official-resources.md): outside links on how AI works, practical learning, and tool documentation.

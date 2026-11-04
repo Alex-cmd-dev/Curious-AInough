@@ -34,3 +34,7 @@ After answering, ask me to add one real constraint (for example, no oven or need
 ## Check your understanding
 
 What information made the answer more useful? What would you ask next if the answer still did not fit? A detailed prompt helps, but you still need to inspect the result.
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

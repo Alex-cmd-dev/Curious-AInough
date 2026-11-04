@@ -34,3 +34,7 @@ Group related stories and summarize what each record says without adding facts t
 ## Check your understanding
 
 Which steps could run the same way every week? What could go wrong if the workflow repeated an error? What must a person verify before sharing the briefing?
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

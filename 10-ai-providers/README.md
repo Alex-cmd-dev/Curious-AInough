@@ -23,3 +23,7 @@ Try the same small, low-stakes task in two assistants. Compare whether each foll
 For task-based tool choices and education offers, see the [Tool Directory](../11-tool-directory/README.md) and [Official Resources](../official-resources.md).
 
 *Provider pages checked November 4, 2026. Product features and access change; re-check official pages before making a decision.*
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

@@ -35,3 +35,7 @@ After the reflection, ask whether I would like you to create a similar exercise.
 ## Check your understanding
 
 Can you point to the evidence supporting the claim? Did you distinguish a current report from a projection? What uncertainty remains, and what would you want to verify closer to kickoff?
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

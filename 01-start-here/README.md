@@ -46,3 +46,7 @@ See the [examples](examples/README.md) hub for how the five-step loop looks acro
 - Trying to learn? Read [🌱 Learning With AI](../03-learning-with-ai/README.md).
 - Checking information? Read [🔍 Research & Verification](../04-research-and-verification/README.md).
 - Developing an idea? Read [💡 Brainstorming & Curiosity](../05-brainstorming-and-curiosity/README.md).
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

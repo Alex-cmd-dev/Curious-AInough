@@ -102,3 +102,7 @@ Understanding the system helps you choose appropriate tasks, recognize limitatio
 - 🔗 [Anthropic: Introducing MCP](https://www.anthropic.com/news/model-context-protocol): background on the protocol.
 - 🔗 [OpenAI: Why language models hallucinate](https://openai.com/index/why-language-models-hallucinate/): an explanation of factual errors and uncertainty.
 - 🔗 [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/): designing and evaluating agent workflows.
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

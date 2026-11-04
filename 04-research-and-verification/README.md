@@ -46,3 +46,7 @@ Try the [activities](activities/README.md) hub to practice checking claims again
 ## 📎 Examples
 
 See the [examples](examples/README.md) hub for what verification looks like across different fields.
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

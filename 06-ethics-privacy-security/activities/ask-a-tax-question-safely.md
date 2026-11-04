@@ -36,3 +36,7 @@ After rewriting it, ask me which details were unnecessary, what I should do if a
 ## Check your understanding
 
 Which details were unnecessary for the general question? What should you do if an AI assistant asks you to upload a real tax document or provide an SSN? Who is responsible for checking advice before you file?
+
+## 💬 Share feedback
+
+Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).

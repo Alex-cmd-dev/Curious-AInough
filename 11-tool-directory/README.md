@@ -33,3 +33,7 @@ A **free tier** is an ongoing, limited option. A **trial** ends. A **student off
 - Explain the task it helps with and a meaningful limitation.
 - Check current access, geography, quotas, payment, and cancellation terms.
 - Note whether the tool handles sensitive data or requires additional permissions.
+
+## 💬 Share feedback
+
+Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
