@@ -1,12 +1,14 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
-Learn to use AI to make progress on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topics, beating others in your fantasy leagues, or troubleshooting a vehicle.
+Learn to use AI to make progress on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topics, beating others in your fantasy leagues, or even troubleshooting a vehicle.
 
 AI can make a real difference in these areas when you know how to guide it, check its work, and decide what to do with its help. This guide gives you practical skills, examples, and activities to build that know-how.
 
-The world is already unfair, and not knowing how to use AI could widen the gap. This powerful technology could leave even more people behind, on top of challenges many already face, like climate change and the rising cost of living. Life is hard enough. Don’t let AI become one more barrier to overcome.
+The world is already unfair. Many people face a difficult job market, limited opportunities, and the daily pressure of just getting by. If access to AI skills is also unequal, this powerful technology could widen the gap and leave even more people behind. Add the rising cost of living, wars, climate change, and the future can feel terrifying. It is hard not feel hopeless and powerless.
 
-Start with [AI and Large Language Models](01-ai-and-llms/README.md), then [Stay in the Driver's Seat](02-stay-in-the-drivers-seat/README.md).
+Rather than feeling cornered, take action by being Curious AInough. Elevate your thinking, elevate your friends, family, community, and while at it even your pets.
+
+[Curious AInough? Start with the first lesson.](01-ai-and-llms/README.md)
 
 <p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
 
@@ -16,19 +18,19 @@ Start with [AI and Large Language Models](01-ai-and-llms/README.md), then [Stay 
 
 ## 📖 Table of contents
 
-| # | Section | What it covers |
-| --- | --- | --- |
-| 1 | [🧠 AI and Large Language Models](01-ai-and-llms/README.md) | What people usually mean by AI, and what an LLM is |
-| 2 | [🧭 Stay in the Driver's Seat](02-stay-in-the-drivers-seat/README.md) | The mindset, the five-step loop, a one-page cheat sheet |
-| 3 | [🗣️ Prompting & Context](03-prompting-and-context/README.md) | How to ask for what you actually need |
-| 4 | [🌱 Learning With AI](04-learning-with-ai/README.md) | Using AI as a coach instead of an answer machine |
-| 5 | [🔍 Research & Verification](05-research-and-verification/README.md) | Following evidence, not confident-sounding claims |
-| 6 | [💡 Brainstorming & Curiosity](06-brainstorming-and-curiosity/README.md) | Developing and stress-testing your own ideas |
-| 7 | [🔐 Ethics, Privacy & Security](07-ethics-privacy-security/README.md) | Protecting data and working fairly |
-| 8 | [⚙️ AI Automation](08-ai-automation/README.md) | Setting up recurring or triggered AI tasks with human review |
-| 9 | [🤖 Coding With Agents](09-coding-with-agents/README.md) | Working safely with AI coding agents |
-| 10 | [🧠 Understanding AI Systems](10-understanding-ai-systems/README.md) | How LLMs, tools, MCP, and agents work together |
-| 11 | [🧰 Tool Directory](11-tool-directory/README.md) | Choosing tools, comparing access, and checking terms |
+| #   | Section                                                                  | What it covers                                               |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1   | [🧠 AI and Large Language Models](01-ai-and-llms/README.md)              | What people usually mean by AI, and what an LLM is           |
+| 2   | [🧭 Stay in the Driver's Seat](02-stay-in-the-drivers-seat/README.md)    | The mindset, the five-step loop, a one-page cheat sheet      |
+| 3   | [🗣️ Prompting & Context](03-prompting-and-context/README.md)             | How to ask for what you actually need                        |
+| 4   | [🌱 Learning With AI](04-learning-with-ai/README.md)                     | Using AI as a coach instead of an answer machine             |
+| 5   | [🔍 Research & Verification](05-research-and-verification/README.md)     | Following evidence, not confident-sounding claims            |
+| 6   | [💡 Brainstorming & Curiosity](06-brainstorming-and-curiosity/README.md) | Developing and stress-testing your own ideas                 |
+| 7   | [🔐 Ethics, Privacy & Security](07-ethics-privacy-security/README.md)    | Protecting data and working fairly                           |
+| 8   | [⚙️ AI Automation](08-ai-automation/README.md)                           | Setting up recurring or triggered AI tasks with human review |
+| 9   | [🤖 Coding With Agents](09-coding-with-agents/README.md)                 | Working safely with AI coding agents                         |
+| 10  | [🧠 Understanding AI Systems](10-understanding-ai-systems/README.md)     | How LLMs, tools, MCP, and agents work together               |
+| 11  | [🧰 Tool Directory](11-tool-directory/README.md)                         | Choosing tools, comparing access, and checking terms         |
 
 ## 🧩 Learn by trying
 
