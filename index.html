@@ -102,7 +102,14 @@
       cursor: pointer;
     }
     #theme-toggle:focus-visible { outline: 3px solid #0969da; outline-offset: 2px; }
-    html.dark-mode { color-scheme: dark; --theme-color: #79c0ff; --base-background-color: #0d1117; --base-color: #e6edf3; }
+    html.dark-mode {
+      color-scheme: dark;
+      --theme-color: #79c0ff;
+      --base-background-color: #0d1117;
+      --base-color: #e6edf3;
+      --heading-color: #ffffff;
+      --sidebar-nav-link-color: #e6edf3;
+    }
     html.dark-mode body,
     html.dark-mode #app,
     html.dark-mode .content { background: #0d1117; color: #e6edf3; }
@@ -116,12 +123,12 @@
     html.dark-mode .markdown-section h4,
     html.dark-mode .markdown-section h5,
     html.dark-mode .markdown-section h6,
-    html.dark-mode .markdown-section strong { color: #ffffff !important; }
+    html.dark-mode .markdown-section strong { color: #ffffff !important; opacity: 1; text-shadow: 0 0 1px rgba(255, 255, 255, 0.4); }
     html.dark-mode .sidebar h1,
     html.dark-mode .sidebar-nav p { color: #ffffff !important; }
     html.dark-mode .markdown-section a { color: #79c0ff; }
     html.dark-mode .sidebar a,
-    html.dark-mode .sidebar ul li a { color: #e6edf3; }
+    html.dark-mode .sidebar ul li a { color: #e6edf3 !important; }
     html.dark-mode .markdown-section table th { background: #161b22; }
     html.dark-mode .markdown-section table tr { border-color: #30363d; }
     html.dark-mode .markdown-section table tr:nth-child(2n) { background: #161b22; }
