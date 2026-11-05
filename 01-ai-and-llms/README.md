@@ -25,7 +25,7 @@ These are practical starting points, not rankings or guarantees. A provider's fe
 
 For a deeper explanation of how LLMs, tools, MCP, and agents work, see [Understanding AI Systems](../10-understanding-ai-systems/README.md). To compare tools by task, see the [Tool Directory](../11-tool-directory/README.md).
 
-Students can also check the [student offers and resources](../11-tool-directory/README.md#students-check-education-offers-separately) listed in the Tool Directory.
+Students can also check the [student offers and resources](../11-tool-directory/README.md#students-look-for-education-offers) listed in the Tool Directory.
 
 ## Learn more
 
