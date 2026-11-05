@@ -1,6 +1,6 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
-Learn to use AI to make progress on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topics, beating others in your fantasy leagues, or even troubleshooting a vehicle.
+Learn to use AI to improve on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topic, beating others in your fantasy leagues, or even troubleshooting a vehicle.
 
 AI can make a real difference in these areas when you know how to guide it, check its work, and decide what to do with its help. This guide gives you practical skills, examples, and activities to build that know-how.
 
