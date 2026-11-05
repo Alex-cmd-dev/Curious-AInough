@@ -1,6 +1,6 @@
 # 🔐 7. Ethics, Privacy & Security: Protect Privacy and Work Fairly
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Brainstorming & Curiosity](../06-brainstorming-and-curiosity/README.md) · [Next: Creating & Automation ➡](../08-creating-and-automation/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Brainstorming & Curiosity](../06-brainstorming-and-curiosity/README.md) · [Next: AI Automation ➡](../08-creating-and-automation/README.md)
 
 > [!NOTE]
 > **Students:** If you use this guide for schoolwork, check your course and assignment rules before using AI. Only share class or personal information with a tool when you have permission to do so.

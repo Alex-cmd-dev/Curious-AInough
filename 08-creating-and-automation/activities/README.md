@@ -1,6 +1,6 @@
-# 📎 Activities: Creating & Automation
+# 📎 Activities: AI Automation
 
-[⬅ Back to Creating & Automation](../README.md)
+[⬅ Back to AI Automation](../README.md)
 
 Choose an activity to practice designing a workflow with human review.
 

@@ -1,4 +1,4 @@
-# 🧠 10. Large Language Models
+# 🧠 10. Understanding AI Systems
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../09-coding-with-agents/README.md) · [Next: Tool Directory ➡](../11-tool-directory/README.md)
 

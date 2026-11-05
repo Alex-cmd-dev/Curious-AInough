@@ -1,4 +1,4 @@
-# 🧭 2. Start Here: Stay in the Driver's Seat
+# 🧭 2. Stay in the Driver's Seat
 
 [⬅ Back to overview](../README.md) · [⬅ Previous: AI and Large Language Models](../01-ai-and-llms/README.md) · [Next: Prompting & Context ➡](../03-prompting-and-context/README.md)
 

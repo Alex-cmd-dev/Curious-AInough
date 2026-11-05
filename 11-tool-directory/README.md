@@ -1,6 +1,6 @@
 # 🧰 11. Tool Directory: Choose Your Toolbox
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Large Language Models](../10-large-language-models/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Understanding AI Systems](../10-understanding-ai-systems/README.md)
 
 ## Start with the task
 

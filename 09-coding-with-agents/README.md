@@ -1,6 +1,6 @@
 # 🤖 9. Coding With Agents
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../08-creating-and-automation/README.md) · [Next: Large Language Models ➡](../10-large-language-models/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: AI Automation](../08-creating-and-automation/README.md) · [Next: Understanding AI Systems ➡](../10-understanding-ai-systems/README.md)
 
 For anyone working with coding agents on a personal, school, or work project.
 
@@ -10,6 +10,25 @@ A coding agent may inspect files, change code, run commands, and test a project.
 
 > [!WARNING]
 > Codex, Claude Code, and similar tools can read or change files and run commands on the computer or environment you give them access to. A mistaken action could delete work, break a project, or expose private data. Work in a dedicated project folder, keep a recoverable copy, review permission requests, and inspect changes before accepting them.
+
+## Vibe coding: fast exploration, with tradeoffs
+
+**Vibe coding** is an informal way to build software by describing what you want in natural language, letting an AI generate or change code, and iterating by looking at the result. It can be a useful way to explore an idea, make a prototype, or learn by experimenting.
+
+### Advantages
+
+- You can get from an idea to a visible prototype quickly, even without knowing every detail of the programming language.
+- Conversational iteration makes it easy to try alternatives and refine a rough concept.
+- The agent can explain unfamiliar code and take on repetitive setup or implementation work.
+
+### Risks and limits
+
+- Code that appears to work can still have hidden bugs, security problems, accessibility gaps, or poor performance.
+- You may end up with code you cannot explain or safely change, especially when accepting large changes without review.
+- Quick patches can create tangled structure, duplicate logic, or unnecessary dependencies that make future work harder.
+- A demo passing one happy-path check does not prove the software is reliable for real users or sensitive data.
+
+Vibe coding is best treated as an exploration method, not a substitute for engineering judgment. As a project becomes important or is used by others, shift from improvising to a deliberate process: clarify requirements, understand the design, review small changes, test expected and failure cases, and maintain the system.
 
 ## Safe workflow
 
@@ -21,6 +40,8 @@ A coding agent may inspect files, change code, run commands, and test a project.
 6. Check dependencies, secrets, file access, and network access.
 7. Keep the code understandable and maintainable.
 8. Save or commit a working version before a substantial change so you can compare and recover.
+
+For consequential changes, add explicit acceptance criteria, ask the agent to explain the approach and tradeoffs, and review the diff in small pieces. Run the relevant automated checks, then manually exercise the feature. Before release, also consider accessibility, error handling, dependency health, data handling, and deployment or rollback. Do not put credentials or private data into prompts or project files unless the environment and handling are appropriate.
 
 ## Questions to ask
 

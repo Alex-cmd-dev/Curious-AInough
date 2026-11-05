@@ -1,6 +1,6 @@
-# 📎 Examples: Creating & Automation
+# 📎 Examples: AI Automation
 
-[⬅ Back to Creating & Automation](../README.md)
+[⬅ Back to AI Automation](../README.md)
 
 Choose an example to see how a recurring task becomes a reviewed workflow.
 

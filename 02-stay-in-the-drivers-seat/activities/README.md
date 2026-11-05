@@ -1,6 +1,6 @@
-# 📎 Activities: Start Here
+# 📎 Activities: Stay in the Driver's Seat
 
-[⬅ Back to Start Here](../README.md)
+[⬅ Back to Stay in the Driver's Seat](../README.md)
 
 Choose an activity to practice using AI while keeping yourself in the driver's seat.
 
