@@ -6,7 +6,7 @@
 - [5. Research & Verification](/05-research-and-verification/README.md)
 - [6. Brainstorming & Curiosity](/06-brainstorming-and-curiosity/README.md)
 - [7. Ethics, Privacy & Security](/07-ethics-privacy-security/README.md)
-- [8. AI Automation](/08-creating-and-automation/README.md)
+- [8. AI Automation](/08-ai-automation/README.md)
 - [9. Coding With Agents](/09-coding-with-agents/README.md)
 - [10. Understanding AI Systems](/10-understanding-ai-systems/README.md)
 - [11. Tool Directory](/11-tool-directory/README.md)
