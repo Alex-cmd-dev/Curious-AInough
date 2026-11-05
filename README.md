@@ -4,7 +4,7 @@ Learn to use AI to make progress on the things that matter to you: studying for 
 
 AI can make a real difference in these areas when you know how to guide it, check its work, and decide what to do with its help. This guide gives you practical skills, examples, and activities to build that know-how.
 
-Life is already plenty unfair. Many people face a difficult job market, limited opportunities, and the daily pressure of just getting by. If access to AI skills is also unequal, this powerful technology could widen the gap and leave even more people behind and under further pressure. Add the rising cost of living, wars, climate change, and living can feel terrifying. It is hard not feel hopeless and powerless.
+Life is already plenty unfair. Many people face a difficult job market, limited opportunities, and the daily pressure of just getting by. If access to AI skills is also unequal, this powerful technology could widen the gap and leave even more people behind and under further pressure. Add the rising cost of living, wars, climate change, and living can feel terrifying. It is hard not to feel hopeless and powerless.
 
 Rather than feeling cornered, take action by being Curious AInough. Elevate your thinking, elevate your friends, family, community, and while at it even your pets.
 
