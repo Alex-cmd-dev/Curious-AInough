@@ -1,8 +1,12 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
-*A practical guide to learning, creating, and making decisions with AI—at work, at school, or on your own.*
+Learn to use AI to make progress on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topics, beating others in your fantasy leagues, or troubleshooting a vehicle.
 
-Artificial intelligence is here to stay, whether we like it or not. That's a reason to act. With all the uncertainty life brings, the best thing you can do is elevate your thinking, not give it away. It is something no one can ever take away from you. If you're curious AInough, begin with [AI and Large Language Models](01-ai-and-llms/README.md), then [Stay in the Driver's Seat](02-stay-in-the-drivers-seat/README.md).
+AI can make a real difference in these areas when you know how to guide it, check its work, and decide what to do with its help. This guide gives you practical skills, examples, and activities to build that know-how.
+
+The world is already unfair, and not knowing how to use AI could widen the gap. This powerful technology could leave even more people behind, on top of challenges many already face, like climate change and the rising cost of living. Life is hard enough. Don’t let AI become one more barrier to overcome.
+
+Start with [AI and Large Language Models](01-ai-and-llms/README.md), then [Stay in the Driver's Seat](02-stay-in-the-drivers-seat/README.md).
 
 <p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
 
