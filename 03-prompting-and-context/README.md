@@ -1,6 +1,6 @@
-# 🗣️ 2. Prompting & Context: Give Good Directions
+# 🗣️ 3. Prompting & Context: Give Good Directions
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Start Here](../01-start-here/README.md) · [Next: Learning With AI ➡](../03-learning-with-ai/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Start Here](../02-start-here/README.md) · [Next: Learning With AI ➡](../04-learning-with-ai/README.md)
 
 ## Purpose
 

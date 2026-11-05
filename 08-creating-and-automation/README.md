@@ -1,6 +1,6 @@
-# ⚙️ 7. Creating & Automation: Create and Automate Useful Work
+# ⚙️ 8. Creating & Automation: Create and Automate Useful Work
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Ethics, Privacy & Security](../06-ethics-privacy-security/README.md) · [Next: Coding With Agents ➡](../08-coding-with-agents/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Ethics, Privacy & Security](../07-ethics-privacy-security/README.md) · [Next: Coding With Agents ➡](../09-coding-with-agents/README.md)
 
 ## Core idea
 

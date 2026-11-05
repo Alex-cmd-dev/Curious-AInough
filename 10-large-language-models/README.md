@@ -1,6 +1,6 @@
-# 🧠 9. Large Language Models
+# 🧠 10. Large Language Models
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../08-coding-with-agents/README.md) · [Next: AI Providers ➡](../10-ai-providers/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Coding With Agents](../09-coding-with-agents/README.md) · [Next: Tool Directory ➡](../11-tool-directory/README.md)
 
 How language models work, and what connected tools and agents let them do.
 
@@ -20,7 +20,7 @@ Here are the words you'll hear most often, explained in plain language with an e
 
 **Like:** A friend who has read an enormous number of books and is great at finishing sentences in a way that *sounds* right, but they're going from memory and pattern, not looking anything up. They can be fluent and wrong at the same time, sounding just as confident either way.
 
-**Why it matters:** Fluency is not evidence. This is exactly why [🔍 Research & Verification](../04-research-and-verification/README.md) matters: check the claims, don't just trust the confident tone.
+**Why it matters:** Fluency is not evidence. This is exactly why [🔍 Research & Verification](../05-research-and-verification/README.md) matters: check the claims, don't just trust the confident tone.
 
 ### Tokens
 
@@ -70,7 +70,7 @@ Here are the words you'll hear most often, explained in plain language with an e
 
 **Like:** The difference between a vending machine (one input, one fixed output) and an intern you send on an errand ("book the venue for Friday") who figures out the sub-steps themselves (checking availability, comparing options, sending the email, confirming it worked) and comes back when it's done or stuck.
 
-**Why it matters:** An agent can go further with less supervision, which is powerful but also means mistakes can compound across steps if no one checks in along the way. See [🤖 Coding With Agents](../08-coding-with-agents/README.md) for how to review its work.
+**Why it matters:** An agent can go further with less supervision, which is powerful but also means mistakes can compound across steps if no one checks in along the way. See [🤖 Coding With Agents](../09-coding-with-agents/README.md) for how to review its work.
 
 Product names and implementations differ across companies, so always check what a particular tool can actually see and do rather than assuming based on these general definitions.
 

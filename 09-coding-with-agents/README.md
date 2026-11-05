@@ -1,6 +1,6 @@
-# 🤖 8. Coding With Agents
+# 🤖 9. Coding With Agents
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../07-creating-and-automation/README.md) · [Next: Large Language Models ➡](../09-large-language-models/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Creating & Automation](../08-creating-and-automation/README.md) · [Next: Large Language Models ➡](../10-large-language-models/README.md)
 
 For anyone working with coding agents on a personal, school, or work project.
 

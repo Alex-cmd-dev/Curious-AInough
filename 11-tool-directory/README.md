@@ -1,6 +1,6 @@
 # 🧰 11. Tool Directory: Choose Your Toolbox
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: AI Providers](../10-ai-providers/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Large Language Models](../10-large-language-models/README.md)
 
 ## Start with the task
 
@@ -8,7 +8,7 @@ You do not need every tool or subscription. Choose one that fits what you want t
 
 | If you want to... | Consider | What to check before using it |
 | --- | --- | --- |
-| Ask questions, draft, or work with files | Choose from the [AI providers in Section 10](../10-ai-providers/README.md) | Whether it can use your files, how it handles your data, and which features your plan includes |
+| Ask questions, draft, or work with files | Choose a provider and assistant that fit your task | Whether it can use your files, how it handles your data, and which features your plan includes |
 | Find and compare sources | [Perplexity](https://www.perplexity.ai/), [NotebookLM](https://notebooklm.google.com/), or a general assistant with search | Open the original sources yourself; check dates, citations, and what the source actually says |
 | Work on a codebase | [Codex](https://developers.openai.com/learn/codex), [Claude Code](https://docs.anthropic.com/en/docs/claude-code/getting-started), [GitHub Copilot](https://github.com/features/copilot), or [Cursor](https://cursor.com/) | File and command permissions, supported editors, usage limits, and how you will review changes |
 | Build software with an agent-first editor | [Google Antigravity](https://antigravity.google/pricing) | Its individual plan was $0/month with weekly rate limits when last checked; confirm current limits and how paid Google AI plans change quotas |

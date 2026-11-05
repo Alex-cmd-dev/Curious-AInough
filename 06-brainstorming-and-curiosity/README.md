@@ -1,6 +1,6 @@
-# 💡 5. Brainstorming & Curiosity: Challenge Your Ideas
+# 💡 6. Brainstorming & Curiosity: Challenge Your Ideas
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Research & Verification](../04-research-and-verification/README.md) · [Next: Ethics, Privacy & Security ➡](../06-ethics-privacy-security/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Research & Verification](../05-research-and-verification/README.md) · [Next: Ethics, Privacy & Security ➡](../07-ethics-privacy-security/README.md)
 
 ## Core idea
 

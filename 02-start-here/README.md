@@ -1,6 +1,6 @@
-# 🧭 1. Start Here: Stay in the Driver's Seat
+# 🧭 2. Start Here: Stay in the Driver's Seat
 
-[⬅ Back to overview](../README.md) · [Next: Prompting & Context ➡](../02-prompting-and-context/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: AI and Large Language Models](../01-ai-and-llms/README.md) · [Next: Prompting & Context ➡](../03-prompting-and-context/README.md)
 
 ## The mindset
 
@@ -42,10 +42,10 @@ See the [examples](examples/README.md) hub for how the five-step loop looks acro
 
 ## Next steps
 
-- Need a better request? Read [🗣️ Prompting & Context](../02-prompting-and-context/README.md).
-- Trying to learn? Read [🌱 Learning With AI](../03-learning-with-ai/README.md).
-- Checking information? Read [🔍 Research & Verification](../04-research-and-verification/README.md).
-- Developing an idea? Read [💡 Brainstorming & Curiosity](../05-brainstorming-and-curiosity/README.md).
+- Need a better request? Read [🗣️ Prompting & Context](../03-prompting-and-context/README.md).
+- Trying to learn? Read [🌱 Learning With AI](../04-learning-with-ai/README.md).
+- Checking information? Read [🔍 Research & Verification](../05-research-and-verification/README.md).
+- Developing an idea? Read [💡 Brainstorming & Curiosity](../06-brainstorming-and-curiosity/README.md).
 
 ## 💬 Share feedback
 

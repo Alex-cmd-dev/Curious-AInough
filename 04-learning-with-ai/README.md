@@ -1,6 +1,6 @@
-# 🌱 3. Learning With AI: Use a Coach
+# 🌱 4. Learning With AI: Use a Coach
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Prompting & Context](../02-prompting-and-context/README.md) · [Next: Research & Verification ➡](../04-research-and-verification/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Prompting & Context](../03-prompting-and-context/README.md) · [Next: Research & Verification ➡](../05-research-and-verification/README.md)
 
 ## Core idea
 

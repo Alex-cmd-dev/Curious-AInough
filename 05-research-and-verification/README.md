@@ -1,6 +1,6 @@
-# 🔍 4. Research & Verification: Follow the Evidence
+# 🔍 5. Research & Verification: Follow the Evidence
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Learning With AI](../03-learning-with-ai/README.md) · [Next: Brainstorming & Curiosity ➡](../05-brainstorming-and-curiosity/README.md)
+[⬅ Back to overview](../README.md) · [⬅ Previous: Learning With AI](../04-learning-with-ai/README.md) · [Next: Brainstorming & Curiosity ➡](../06-brainstorming-and-curiosity/README.md)
 
 > [!NOTE]
 > **Students:** If you use this guide for schoolwork, check your course's citation and AI-use rules before relying on AI for research. Cite only sources you have opened and read.
