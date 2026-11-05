@@ -1,6 +1,5 @@
 # Computer Science: Stay in the Driver's Seat
 
-[Back to examples](../README.md)
 
 **Remember:** You set the goal. AI assists. You decide.
 
@@ -19,3 +18,5 @@ Code that runs is not the same as code that is correct. You still own what you s
 
 ## Try it yourself
 Write one goal from your own classes or life. What will you check before you trust the answer?
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/02-stay-in-the-drivers-seat/examples/README.md">Back to examples</a></nav>

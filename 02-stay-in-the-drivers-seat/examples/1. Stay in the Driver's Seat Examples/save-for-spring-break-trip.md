@@ -1,6 +1,5 @@
 # Finance: Stay in the Driver's Seat
 
-[Back to examples](../README.md)
 
 **Remember:** You set the goal. AI assists. You decide.
 
@@ -19,3 +18,5 @@ Finance is about choices with money and time. AI can lay out options, but you we
 
 ## Try it yourself
 Write one goal from your own classes or life. What will you check before you trust the answer?
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/02-stay-in-the-drivers-seat/examples/README.md">Back to examples</a></nav>

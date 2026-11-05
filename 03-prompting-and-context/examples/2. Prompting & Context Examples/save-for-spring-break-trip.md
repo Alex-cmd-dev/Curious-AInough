@@ -1,6 +1,5 @@
 # Finance: Give Good Directions
 
-[Back to prompting examples](../README.md)
 
 **Remember:** You decide where you're going. A good prompt gives AI better directions.
 
@@ -37,3 +36,5 @@ Finance is about choices with money and time. Giving numbers and limits lets AI 
 
 ## Try it yourself
 Take a vague prompt you have used before. Rewrite it with the five parts above, then compare the answers.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/03-prompting-and-context/examples/README.md">Back to prompting examples</a></nav>
