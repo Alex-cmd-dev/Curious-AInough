@@ -1,6 +1,5 @@
 # 🌱 4. Learning With AI: Use a Coach
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Prompting & Context](../03-prompting-and-context/README.md) · [Next: Research & Verification ➡](../05-research-and-verification/README.md)
 
 ## Core idea
 
@@ -42,3 +41,5 @@ Visit the [examples](examples/README.md) hub to see the learning loop in action.
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/03-prompting-and-context/README.md">⬅ Previous: Prompting & Context</a> <span aria-hidden="true">·</span> <a href="#/05-research-and-verification/README.md">Next: Research & Verification ➡</a></nav>

@@ -1,6 +1,5 @@
 # Challenge: Learn Photosynthesis With AI
 
-[⬅ Back to Examples](README.md)
 
 ## The scenario
 
@@ -19,3 +18,5 @@ You are starting a biology unit on photosynthesis. You know that plants use sunl
 You should be able to describe the inputs and outputs, explain that matter is rearranged into sugars and oxygen, and distinguish the role of light energy from the atoms that make up the products. If you get stuck, return to the part you cannot explain and ask for one hint at a time.
 
 Follow your course's AI-use rules. The goal is to practice explaining biology in your own words rather than relying on AI-written explanations.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/04-learning-with-ai/examples/README.md">⬅ Back to Examples</a></nav>

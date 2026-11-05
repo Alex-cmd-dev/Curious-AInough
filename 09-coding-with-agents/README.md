@@ -1,6 +1,5 @@
 # 🤖 9. Coding With Agents
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: AI Automation](../08-ai-automation/README.md) · [Next: Understanding AI Systems ➡](../10-understanding-ai-systems/README.md)
 
 For anyone working with coding agents on a personal, school, or work project.
 
@@ -58,3 +57,5 @@ For consequential changes, add explicit acceptance criteria, ask the agent to ex
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/08-ai-automation/README.md">⬅ Previous: AI Automation</a> <span aria-hidden="true">·</span> <a href="#/10-understanding-ai-systems/README.md">Next: Understanding AI Systems ➡</a></nav>

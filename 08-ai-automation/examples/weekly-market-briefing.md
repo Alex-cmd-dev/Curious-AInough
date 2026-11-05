@@ -1,6 +1,5 @@
 # 📈 Example: Automate a Weekly Market Briefing
 
-[⬅ Back to Examples](README.md)
 
 **Recurring problem:** Keeping up with U.S. stocks and the coming week's economic events takes time every Sunday.
 
@@ -13,3 +12,5 @@
 ## What you should review
 
 Before using the briefing, check the dates, event times, source links, and any surprising claims. Decide which developments matter to your own situation. The automation saves the repetitive gathering and formatting work; it does not make investment decisions for you.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/08-ai-automation/examples/README.md">⬅ Back to Examples</a></nav>

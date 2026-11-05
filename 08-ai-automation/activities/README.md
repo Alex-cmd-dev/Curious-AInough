@@ -1,6 +1,5 @@
 # 📎 Activities: AI Automation
 
-[⬅ Back to AI Automation](../README.md)
 
 Choose an activity to practice designing a workflow with human review.
 
@@ -11,3 +10,5 @@ Choose an activity to practice designing a workflow with human review.
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/08-ai-automation/README.md">⬅ Back to AI Automation</a></nav>

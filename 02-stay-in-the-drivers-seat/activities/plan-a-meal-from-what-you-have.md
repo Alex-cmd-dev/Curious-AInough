@@ -1,6 +1,5 @@
 # Activity: Plan a Meal From What You Have
 
-[⬅ Back to Activities](README.md)
 
 ## The scenario
 
@@ -35,3 +34,5 @@ Which part of your decision came from AI, and which part required your own obser
 ## 💬 Share feedback
 
 Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/02-stay-in-the-drivers-seat/activities/README.md">⬅ Back to Activities</a></nav>

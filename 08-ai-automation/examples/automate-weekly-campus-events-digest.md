@@ -1,6 +1,5 @@
 # Challenge: Automate a Weekly Campus Events Digest
 
-[⬅ Back to Examples](README.md)
 
 ## The scenario
 
@@ -24,3 +23,5 @@ Students often hear about campus events too late to attend. Create a short diges
 ## Check the result
 
 The digest should be short, cover only the requested week, link to public sources, and clearly flag missing or conflicting details. A person checks the draft before sharing it. No coding or connection to a real campus account is needed.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/08-ai-automation/examples/README.md">⬅ Back to Examples</a></nav>

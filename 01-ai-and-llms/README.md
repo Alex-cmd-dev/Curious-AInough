@@ -1,6 +1,5 @@
 # 🧠 1. AI and Large Language Models
 
-[⬅ Back to overview](../README.md) · [Next: Stay in the Driver's Seat ➡](../02-stay-in-the-drivers-seat/README.md)
 
 ## The kind of AI people usually mean
 
@@ -37,3 +36,5 @@ Students can also check the [student offers and resources](../11-tool-directory/
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/02-stay-in-the-drivers-seat/README.md">Next: Stay in the Driver's Seat ➡</a></nav>

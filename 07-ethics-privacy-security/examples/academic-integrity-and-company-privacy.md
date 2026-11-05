@@ -1,6 +1,5 @@
 # 🔒 Ethics, Privacy & Security Examples
 
-[⬅ Back to Examples](README.md)
 
 Curious AI-nough? AI Workshop. Ethics, Privacy & Security section by SWE.
 
@@ -83,3 +82,5 @@ Before using AI, ask:
    AI can make mistakes. Check important information before relying on it.
 4. **Would I be comfortable explaining how I used AI?**
    If you'd be uncomfortable telling your professor, employer, or teammate what you did, reconsider how you're using it.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/07-ethics-privacy-security/examples/README.md">⬅ Back to Examples</a></nav>

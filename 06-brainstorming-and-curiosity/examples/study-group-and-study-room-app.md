@@ -1,6 +1,5 @@
 # 💡 Brainstorming Examples
 
-[⬅ Back to Examples](README.md)
 
 A reusable outline and two examples: a study group and a campus study-room app. The AI responses are illustrative. Your own chat will differ, and that's fine.
 
@@ -145,3 +144,5 @@ Use these five steps on any idea, in any field. Swap the brackets for your own w
 - AI offers directions and challenges. It never makes the final call.
 - Each decision is made against your own criteria.
 - The case against the idea is another angle to examine, not a verdict. Test it with people and facts outside the chat.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/06-brainstorming-and-curiosity/examples/README.md">⬅ Back to Examples</a></nav>

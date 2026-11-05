@@ -1,6 +1,5 @@
 # Activity: Ask for a Useful Dinner Plan
 
-[⬅ Back to Activities](README.md)
 
 ## The scenario
 
@@ -38,3 +37,5 @@ What information made the answer more useful? What would you ask next if the ans
 ## 💬 Share feedback
 
 Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/03-prompting-and-context/activities/README.md">⬅ Back to Activities</a></nav>

@@ -1,6 +1,5 @@
 # 🧭 2. Stay in the Driver's Seat
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: AI and Large Language Models](../01-ai-and-llms/README.md) · [Next: Prompting & Context ➡](../03-prompting-and-context/README.md)
 
 ## The mindset
 
@@ -50,3 +49,5 @@ See the [examples](examples/README.md) hub for how the five-step loop looks acro
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/01-ai-and-llms/README.md">⬅ Previous: AI and Large Language Models</a> <span aria-hidden="true">·</span> <a href="#/03-prompting-and-context/README.md">Next: Prompting & Context ➡</a></nav>

@@ -1,6 +1,5 @@
 # 📎 Activities: Research & Verification
 
-[⬅ Back to Research & Verification](../README.md)
 
 Choose an activity to practice checking claims against evidence.
 
@@ -12,3 +11,5 @@ Choose an activity to practice checking claims against evidence.
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/05-research-and-verification/README.md">⬅ Back to Research & Verification</a></nav>

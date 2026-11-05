@@ -1,6 +1,5 @@
 # Research and Verification: My Examples
 
-[⬅ Back to Examples](README.md)
 
 Elevate Your Thinking workshop, research and verification section.
 
@@ -81,3 +80,5 @@ UTRGV's high-performance computing cluster is called **Cradle**. It is built for
 - [Cluster specifications](https://hpc.utrgv.edu/specifications)
 
 ---
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/05-research-and-verification/examples/README.md">⬅ Back to Examples</a></nav>

@@ -1,6 +1,5 @@
 # 💡 6. Brainstorming & Curiosity: Challenge Your Ideas
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Research & Verification](../05-research-and-verification/README.md) · [Next: Ethics, Privacy & Security ➡](../07-ethics-privacy-security/README.md)
 
 ## Core idea
 
@@ -41,3 +40,5 @@ See the [examples](examples/README.md) hub for what this looks like across diffe
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/05-research-and-verification/README.md">⬅ Previous: Research & Verification</a> <span aria-hidden="true">·</span> <a href="#/07-ethics-privacy-security/README.md">Next: Ethics, Privacy & Security ➡</a></nav>

@@ -1,6 +1,5 @@
 # 🔗 Official Resources & Further Reading
 
-[⬅ Back to overview](README.md)
 
 *Resource links checked November 4, 2026.* Offers, eligibility, and product details can change; confirm current terms on the linked provider pages.
 
@@ -37,3 +36,5 @@
 
 > [!NOTE]
 > **Reminder:** offers, eligibility, geography, pricing, quotas, and deadlines change. Re-check official links before acting on them. See the [🧰 Tool Directory](11-tool-directory/README.md) for how to evaluate access.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a></nav>

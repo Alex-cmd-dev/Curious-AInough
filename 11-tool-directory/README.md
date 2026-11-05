@@ -1,6 +1,5 @@
 # 🧰 11. Tool Directory: Find a Tool for the Task
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Understanding AI Systems](../10-understanding-ai-systems/README.md)
 
 Use this page to find a starting point for a task. It is a short directory, not a ranking: tools change, and the best fit depends on what you need, what access you have, and what you are comfortable sharing.
 
@@ -45,3 +44,5 @@ When adding a tool, link to its official page, say what task it helps with, and 
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/10-understanding-ai-systems/README.md">⬅ Previous: Understanding AI Systems</a></nav>

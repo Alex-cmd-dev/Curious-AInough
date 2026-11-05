@@ -1,6 +1,5 @@
 # 🤝 How to contribute
 
-[⬅ Back to overview](README.md)
 
 There are two ways to add to this guide:
 
@@ -18,3 +17,5 @@ When your change is ready, open a pull request:
 3. Choose **Propose changes** or **Create pull request**, and add a one-line description of what you changed.
 
 By opening a pull request, you agree that your contribution can be shared under the guide's [license](https://github.com/Alex-cmd-dev/Curious-AInough/blob/main/LICENSE) (CC BY 4.0).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a></nav>

@@ -1,6 +1,5 @@
 # Challenge: Understand Rocket Thrust With AI
 
-[⬅ Back to Examples](README.md)
 
 ## The scenario
 
@@ -21,3 +20,5 @@ Here, $\dot{m}$ is exhaust mass leaving per second, $v_e$ is its speed relative 
 ## Check your understanding
 
 You should be able to explain why moving exhaust carries momentum and how the pressure difference affects thrust. That term is positive when exit pressure exceeds outside pressure, negative when it is lower, and zero when they are equal. A product rule applied only to the rocket's changing mass leaves out the departing exhaust.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/04-learning-with-ai/examples/README.md">⬅ Back to Examples</a></nav>

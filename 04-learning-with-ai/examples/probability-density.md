@@ -1,6 +1,5 @@
 # Challenge: Understand Probability Density With AI
 
-[⬅ Back to Examples](README.md)
 
 ## The scenario
 
@@ -17,3 +16,5 @@ You are using a continuous probability model for height and learning what its *p
 ## Check your understanding
 
 In a model with a probability density, an exact value has probability zero, but an interval can have positive probability. Some other models assign probability to individual values.
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/04-learning-with-ai/examples/README.md">⬅ Back to Examples</a></nav>

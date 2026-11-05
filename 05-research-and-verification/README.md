@@ -1,6 +1,5 @@
 # 🔍 5. Research & Verification: Follow the Evidence
 
-[⬅ Back to overview](../README.md) · [⬅ Previous: Learning With AI](../04-learning-with-ai/README.md) · [Next: Brainstorming & Curiosity ➡](../06-brainstorming-and-curiosity/README.md)
 
 > [!NOTE]
 > **Students:** If you use this guide for schoolwork, check your course's citation and AI-use rules before relying on AI for research. Cite only sources you have opened and read.
@@ -50,3 +49,5 @@ See the [examples](examples/README.md) hub for what verification looks like acro
 ## 💬 Share feedback
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/04-learning-with-ai/README.md">⬅ Previous: Learning With AI</a> <span aria-hidden="true">·</span> <a href="#/06-brainstorming-and-curiosity/README.md">Next: Brainstorming & Curiosity ➡</a></nav>

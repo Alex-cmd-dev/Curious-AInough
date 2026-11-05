@@ -1,6 +1,5 @@
 # Activity: Check a Cooking Claim
 
-[⬅ Back to Activities](README.md)
 
 ## The scenario
 
@@ -32,3 +31,5 @@ Can you point to the exact part of each opened source that supports your conclus
 ## 💬 Share feedback
 
 Help improve this activity by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
+
+<nav class="page-navigation" aria-label="Page navigation"><a href="#/05-research-and-verification/activities/README.md">⬅ Back to Activities</a></nav>
