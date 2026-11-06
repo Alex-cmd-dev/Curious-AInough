@@ -1,6 +1,7 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
-<p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
+<p align="center"><img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e60bb6da0952c78d7c4c_81.png" alt="Blue thinking face emoji" width="320"></p>
+<p align="center"><small>Thinking Blue Face by <a href="https://bluemoji.io/emoji/thinking-face">Bluemoji</a>.</small></p>
 
 Learn to use AI to improve on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topic, beating others in your fantasy leagues, or even troubleshooting a vehicle.
 
