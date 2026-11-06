@@ -116,4 +116,4 @@ Understanding the system helps you choose appropriate tasks, recognize limitatio
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
 
-<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/09-coding-with-agents/README.md">⬅ Previous: Coding With Agents</a> <span aria-hidden="true">·</span> <a href="#/11-tool-directory/README.md">Next: Tool Directory ➡</a></nav>
+<nav class="page-navigation" aria-label="Page navigation"><div class="page-navigation-overview"><a href="#/README.md">⬅ Back to overview</a></div><div class="page-navigation-neighbors"><a class="previous-page" href="#/09-coding-with-agents/README.md">⬅ Previous: Coding With Agents</a><a class="next-page" href="#/11-tool-directory/README.md">Next: Tool Directory ➡</a></div></nav>

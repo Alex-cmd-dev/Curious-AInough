@@ -39,7 +39,7 @@
     .markdown-section h1, .markdown-section h2, .markdown-section h3 { letter-spacing: -.035em; line-height: 1.2; }
     .markdown-section h1 { font-size: 2.5rem; }
     .markdown-section h2 { margin-top: 2.8rem; padding-bottom: .45rem; border-bottom: 1px solid #dce4f5; }
-    .markdown-section p, .markdown-section li { color: #435654; }
+    .markdown-section p, .markdown-section li { color: #3e465c; }
     .markdown-section a { font-weight: 550; text-decoration-thickness: 1px; text-underline-offset: 3px; }
     .markdown-section blockquote { padding: .8rem 1.2rem; border-left: 3px solid #7161dc; background: #f2f0ff; border-radius: 0 .6rem .6rem 0; }
     .markdown-section pre { border: 1px solid #dce4f5; border-radius: .8rem; box-shadow: 0 8px 24px rgba(43, 65, 133, .07); }
@@ -89,7 +89,7 @@
       padding: 0.6rem 0.9rem;
       border: 0;
       border-radius: 0.4rem;
-      background: #0969da;
+      background: #4057c8;
       color: #fff;
       font: inherit;
       cursor: pointer;
@@ -97,7 +97,7 @@
     .student-notice button:focus-visible,
     .student-notice a:focus-visible,
     .contribute-bar a:focus-visible {
-      outline: 3px solid #f9c846;
+      outline: 3px solid #8b7cf6;
       outline-offset: 3px;
     }
     .contribute-bar {
@@ -120,18 +120,17 @@
       text-decoration: underline;
     }
     .markdown-section .page-navigation {
-      display: flex;
-      flex-wrap: nowrap;
-      align-items: center;
-      gap: 0.75rem;
       margin-top: 2.5rem;
       padding-top: 1rem;
-      border-top: 1px solid #d0d7de;
-      font-size: 1.15rem;
+      border-top: 1px solid #dce4f5;
+      font-size: 1rem;
       font-weight: 600;
-      white-space: nowrap;
-      overflow-x: auto;
     }
+    .page-navigation-overview { margin-bottom: .85rem; }
+    .page-navigation-neighbors { display: flex; justify-content: space-between; align-items: stretch; gap: 1rem; }
+    .page-navigation-neighbors a { max-width: 48%; padding: .65rem .9rem; border: 1px solid #dce4f5; border-radius: .65rem; background: #f5f7ff; text-decoration: none !important; }
+    .page-navigation-neighbors .next-page { margin-left: auto; text-align: right; }
+    @media (max-width: 520px) { .page-navigation-neighbors { gap: .5rem; } .page-navigation-neighbors a { max-width: 49%; padding: .65rem .55rem; font-size: .92rem; white-space: normal; } }
     .markdown-section .page-navigation a { text-decoration: underline; }
     .markdown-section pre.activity-prompt {
       position: relative;
@@ -154,7 +153,7 @@
       background: #f3f4f6;
     }
     .activity-prompt-copy:focus-visible {
-      outline: 3px solid #0969da;
+      outline: 3px solid #4057c8;
       outline-offset: 2px;
     }
     #theme-toggle {
@@ -170,7 +169,7 @@
       font: inherit;
       cursor: pointer;
     }
-    #theme-toggle:focus-visible { outline: 3px solid #0969da; outline-offset: 2px; }
+    #theme-toggle:focus-visible { outline: 3px solid #4057c8; outline-offset: 2px; }
     html.dark-mode {
       color-scheme: dark;
       --theme-color: #8b7cf6;
@@ -248,7 +247,8 @@
     html.dark-mode .search input { background: #0d1117; color: #e6edf3; border-color: #484f58; }
     html.dark-mode .student-notice { background: #161b22; color: #e6edf3; border-color: #484f58; }
     html.dark-mode .contribute-bar { background: #161b22; border-color: #484f58; }
-    html.dark-mode .markdown-section .page-navigation { border-top-color: #484f58; }
+    html.dark-mode .markdown-section .page-navigation { border-top-color: #30303d; }
+    html.dark-mode .page-navigation-neighbors a { border-color: #37334f; background: #191725; }
     html.dark-mode #theme-toggle,
     html.dark-mode .activity-prompt-copy { background: #21262d; color: #e6edf3; border-color: #6e7681; }
   </style>

@@ -49,4 +49,4 @@ See the [examples](examples/README.md) hub for what this looks like across diffe
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
 
-<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/05-research-and-verification/README.md">⬅ Previous: Research & Verification</a> <span aria-hidden="true">·</span> <a href="#/07-ethics-privacy-security/README.md">Next: Ethics, Privacy & Security ➡</a></nav>
+<nav class="page-navigation" aria-label="Page navigation"><div class="page-navigation-overview"><a href="#/README.md">⬅ Back to overview</a></div><div class="page-navigation-neighbors"><a class="previous-page" href="#/05-research-and-verification/README.md">⬅ Previous: Research & Verification</a><a class="next-page" href="#/07-ethics-privacy-security/README.md">Next: Ethics, Privacy & Security ➡</a></div></nav>

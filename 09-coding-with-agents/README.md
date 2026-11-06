@@ -58,4 +58,4 @@ For consequential changes, add explicit acceptance criteria, ask the agent to ex
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
 
-<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/08-ai-automation/README.md">⬅ Previous: AI Automation</a> <span aria-hidden="true">·</span> <a href="#/10-understanding-ai-systems/README.md">Next: Understanding AI Systems ➡</a></nav>
+<nav class="page-navigation" aria-label="Page navigation"><div class="page-navigation-overview"><a href="#/README.md">⬅ Back to overview</a></div><div class="page-navigation-neighbors"><a class="previous-page" href="#/08-ai-automation/README.md">⬅ Previous: AI Automation</a><a class="next-page" href="#/10-understanding-ai-systems/README.md">Next: Understanding AI Systems ➡</a></div></nav>

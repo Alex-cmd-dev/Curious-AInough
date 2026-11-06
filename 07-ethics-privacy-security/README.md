@@ -64,4 +64,4 @@ See the [examples](examples/README.md) hub for decisions about academic integrit
 
 Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/1FAIpQLSer6w236SEhMt18CPA8vo5dsLnYd5WV6G5jy1irgFv9Osq_lg/viewform?usp=sharing&ouid=111326601163922216667).
 
-<nav class="page-navigation" aria-label="Page navigation"><a href="#/README.md">⬅ Back to overview</a> <span aria-hidden="true">·</span> <a href="#/06-brainstorming-and-curiosity/README.md">⬅ Previous: Brainstorming & Curiosity</a> <span aria-hidden="true">·</span> <a href="#/08-ai-automation/README.md">Next: AI Automation ➡</a></nav>
+<nav class="page-navigation" aria-label="Page navigation"><div class="page-navigation-overview"><a href="#/README.md">⬅ Back to overview</a></div><div class="page-navigation-neighbors"><a class="previous-page" href="#/06-brainstorming-and-curiosity/README.md">⬅ Previous: Brainstorming & Curiosity</a><a class="next-page" href="#/08-ai-automation/README.md">Next: AI Automation ➡</a></div></nav>
