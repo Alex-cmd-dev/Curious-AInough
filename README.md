@@ -1,5 +1,7 @@
 # 🧭 Curious AInough: Elevate Your Thinking
 
+<p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
+
 Learn to use AI to improve on the things that matter to you: studying for a class, improving in your career, starting or managing a business, creating content, researching a topic, beating others in your fantasy leagues, or even troubleshooting a vehicle.
 
 AI can make a real difference in these areas when you know how to guide it, check its work, and decide what to do with its help. This guide gives you practical skills, examples, and activities to build that know-how.
@@ -10,7 +12,6 @@ Rather than feeling cornered, take action by being Curious AInough. Elevate your
 
 [Curious AInough? Start with the first lesson.](01-ai-and-llms/README.md)
 
-<p align="center"><img src="assets/brain.svg" alt="Stylized illustration of a human brain" width="320"></p>
 
 ## 🔁 The five-step loop
 
