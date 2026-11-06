@@ -5,6 +5,16 @@ How language models work, and what connected tools and agents let them do.
 
 **Jump to:** [LLM](#large-language-model-llm) · [Tokens](#tokens) · [Context window](#context-window) · [Retrieval](#retrieval) · [Tools](#tools) · [Skills](#skills) · [MCP](#model-context-protocol-mcp) · [Agents](#agents)
 
+```mermaid
+flowchart LR
+    U[You] --> A[Assistant]
+    A --> M[Model: generates responses]
+    A --> C[Context: prompt, conversation, files]
+    A --> T[Tools: search, code, file actions]
+    T <--> S[Connected services / data]
+    M --> A
+```
+
 ## Learning path
 
 **Model basics → Context & retrieval → Tools → MCP / skills → Agents → Build or automate something**

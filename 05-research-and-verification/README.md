@@ -8,6 +8,16 @@
 
 AI can suggest search terms, questions, and possible sources. Treat those as leads, not conclusions. Use evidence and your own checking to decide what to trust.
 
+```mermaid
+flowchart TD
+    Q[Question or AI claim] --> S[Find original sources]
+    S --> O[Open and read source]
+    O --> M{Does evidence support claim?}
+    M -->|Yes| X[Compare with other reliable sources]
+    X --> R[Record citation and uncertainty]
+    M -->|No or unclear| U[Revise, qualify, or reject claim]
+```
+
 ## A responsible research workflow
 
 1. Start with your research question and what you already know.

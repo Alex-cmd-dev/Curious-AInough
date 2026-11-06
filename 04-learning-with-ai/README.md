@@ -5,6 +5,12 @@
 
 Use AI to become more capable, not to avoid thinking. If someone else lifts every weight at the gym, you do not get stronger. The same can happen when AI completes every step of a task you want to understand.
 
+```mermaid
+flowchart LR
+    P[Attempt] --> A[Ask] --> E[Explain] --> T[Practice / test] --> C[Check / reflect]
+    C -->|Try again| P
+```
+
 ## Productive learning loop
 
 **Attempt → Ask → Explain → Test → Reflect**

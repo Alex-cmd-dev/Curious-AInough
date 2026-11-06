@@ -5,6 +5,15 @@
 
 Automation means setting up a task to run again later, on a schedule, or when something happens. You describe what should happen and when; an AI assistant may be able to carry it out using the information and tools you allow. Programming is one way to automate, but some assistants let you set up recurring work with instructions in everyday language.
 
+```mermaid
+flowchart LR
+    T[Trigger] --> AI[AI processes allowed information]
+    AI --> H{Human review needed?}
+    H -->|Yes| R[Review and approve]
+    H -->|No, low risk| A[Proceed within limits]
+    R --> A[Action]
+```
+
 ## Workflow
 
 1. Choose a task that needs to happen again, such as a weekly summary or a reminder when new information arrives.

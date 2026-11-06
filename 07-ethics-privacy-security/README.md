@@ -19,6 +19,15 @@ Responsibility stays with the person using the tool. Protect sensitive informati
 - Accuracy, accountability, and human review
 - Security of third-party tools and extensions
 
+```mermaid
+flowchart TD
+    I[Information to share] --> S{Sensitive, identifying, confidential, or someone else's?}
+    S -->|No| G[Share only what the task needs]
+    S -->|Yes| R{Approved tool and permission?}
+    R -->|Yes| L[Minimize details; share only what's necessary]
+    R -->|No / unsure| N[Remove identifying details or don't share]
+```
+
 ## Before sharing information
 
 Ask whether the data is private, identifying, confidential, regulated, proprietary, or someone else's to control. Remove passwords, account details, personal records, health information, and confidential school or workplace data unless you have a suitable, approved way to handle them. When in doubt, remove identifying details or do not share it. The privacy terms and controls can differ by service and account.

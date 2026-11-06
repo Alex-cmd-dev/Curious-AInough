@@ -5,6 +5,14 @@
 
 Bring your own thought first. Use AI to expand it, challenge it, and reveal what you may be missing.
 
+```mermaid
+flowchart LR
+    I[One starting idea] --> D[Diverge: generate options]
+    D --> W[Widen: assumptions and viewpoints]
+    W --> C[Converge: compare against criteria]
+    C --> T[Choose what to test]
+```
+
 ## A useful sequence
 
 1. Write a rough idea in your own words.

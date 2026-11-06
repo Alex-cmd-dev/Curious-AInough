@@ -11,6 +11,12 @@ Then use AI to help you explore. Question what it gives you, check important inf
 
 The goal is not to let AI do your thinking for you. The goal is to use AI to help you think, learn, and create more effectively.
 
+```mermaid
+flowchart LR
+    G[1. Define goal] --> C[2. Give context] --> E[3. Explore] --> V[4. Check] --> D[5. Decide]
+    D -->|Keep exploring| E
+```
+
 ## The five-step loop
 
 1. **Define the goal:** What are you actually trying to accomplish or understand?

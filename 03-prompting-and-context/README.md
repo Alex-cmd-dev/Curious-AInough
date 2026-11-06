@@ -21,6 +21,13 @@ A useful prompt usually explains your goal, relevant background, important limit
 | 📦 Output | What kind of response would help you |
 | ✅ Check | How uncertainty, missing information, or important claims should be handled |
 
+```mermaid
+flowchart LR
+    V[Vague: Plan dinner] -->|Add useful details| D[Detailed: Plan 3 dinners for 2
+under $40, vegetarian, 30 min max]
+    D --> O[More relevant plan to review]
+```
+
 ## Reusable pattern
 
 ```text
