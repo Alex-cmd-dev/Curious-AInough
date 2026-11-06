@@ -12,20 +12,6 @@ A coding agent may inspect files, change code, run commands, and test a project.
 
 ## Vibe coding: fast exploration, with tradeoffs
 
-```mermaid
-flowchart TD
-    I[Idea] --> V[Vibe coding: describe, generate, try, iterate]
-    V --> P[Prototype works for a first look?]
-    P -->|Explore or learn| V
-    P -->|Build something dependable| D[Development: define requirements and acceptance checks]
-    D --> C[Plan small changes]
-    C --> R[Review code and permissions]
-    R --> T[Run tests and inspect behavior]
-    T -->|Issue found| C
-    T -->|Meets requirements| M[Maintain and improve]
-```
-
-
 **Vibe coding** is an informal way to build software by describing what you want in natural language, letting an AI generate or change code, and iterating by looking at the result. It can be a useful way to explore an idea, make a prototype, or learn by experimenting.
 
 ### Advantages

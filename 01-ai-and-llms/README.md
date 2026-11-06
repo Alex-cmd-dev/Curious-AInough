@@ -6,12 +6,14 @@
 Artificial intelligence (AI) is a broad term for computer systems that do tasks such as recognizing images, understanding speech, or generating language. In everyday conversation, “AI” often means a chat assistant powered by a large language model (LLM), such as ChatGPT, Claude, Gemini, or Grok.
 
 ```mermaid
-flowchart LR
+%%{init: {"themeVariables": {"fontSize": "20px"}, "flowchart": {"nodeSpacing": 48, "rankSpacing": 64}}}%%
+flowchart TD
     P[Your prompt] --> T[Split into tokens]
     T --> C[Combine with conversation context]
     C --> M[LLM predicts next token]
     M --> R[Repeat until response is complete]
     R --> A[Assistant response]
+    R -. each new token .-> M
 ```
 
 An LLM learns patterns from data and uses them to generate responses from your prompt and the other context it receives. The assistant is the product you interact with; the LLM is one kind of model that can power it. They are often treated as the same thing in everyday conversation, but they are different: AI includes systems that are not LLMs, and an assistant can combine an LLM with tools such as web search, file analysis, or image generation.
