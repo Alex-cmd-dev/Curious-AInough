@@ -36,6 +36,8 @@
     .markdown-section pre { border: 1px solid #dce6df; border-radius: .8rem; box-shadow: 0 8px 24px rgba(31, 63, 56, .06); }
     .markdown-section table { display: table; width: 100%; border-radius: .6rem; overflow: hidden; }
     .markdown-section table th { background: #eaf1eb; }
+    .markdown-section .mermaid { width: 100%; margin: 1.5rem 0 2rem; overflow-x: auto; text-align: center; }
+    .markdown-section .mermaid svg { display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; }
     @media (max-width: 768px) { .markdown-section { padding: 2rem 1.4rem 4rem; } .markdown-section h1 { font-size: 2rem; } }
     .student-notice {
       box-sizing: border-box;
@@ -162,6 +164,16 @@
     html.dark-mode .markdown-section blockquote { background: #161f25; }
     html.dark-mode .markdown-section pre { border-color: #30363d; }
     html.dark-mode .markdown-section table th { background: #161b22; }
+    html.dark-mode .markdown-section .mermaid .node rect,
+    html.dark-mode .markdown-section .mermaid .node polygon,
+    html.dark-mode .markdown-section .mermaid .node circle { fill: #161b22 !important; stroke: #79c0ff !important; }
+    html.dark-mode .markdown-section .mermaid .edgePath path,
+    html.dark-mode .markdown-section .mermaid .flowchart-link { stroke: #79c0ff !important; }
+    html.dark-mode .markdown-section .mermaid marker path { fill: #79c0ff !important; stroke: #79c0ff !important; }
+    html.dark-mode .markdown-section .mermaid .nodeLabel,
+    html.dark-mode .markdown-section .mermaid .edgeLabel,
+    html.dark-mode .markdown-section .mermaid text { fill: #e6edf3 !important; color: #e6edf3 !important; }
+    html.dark-mode .markdown-section .mermaid .edgeLabel rect { fill: #0d1117 !important; }
     html.dark-mode .sidebar a,
     html.dark-mode .sidebar ul li a { color: #c9d1d9; }
     html.dark-mode .markdown-section { color: #e6edf3; }
