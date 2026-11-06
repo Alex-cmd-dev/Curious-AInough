@@ -40,14 +40,17 @@
     .markdown-section .mermaid svg { display: block; width: 100%; max-width: none; height: auto; margin: 0 auto; }
     .markdown-section .mermaid .node rect,
     .markdown-section .mermaid .node polygon,
-    .markdown-section .mermaid .node circle { fill: #edf5f1; stroke: #087e75; }
+    .markdown-section .mermaid .node circle,
+    .markdown-section .mermaid .node path { fill: #edf5f1 !important; stroke: #087e75 !important; }
     .markdown-section .mermaid .edgePath path,
     .markdown-section .mermaid .flowchart-link,
     .markdown-section .mermaid marker path { stroke: #087e75; fill: #087e75; }
     .markdown-section .mermaid .nodeLabel,
     .markdown-section .mermaid .edgeLabel,
     .markdown-section .mermaid text { fill: #24292f; color: #24292f; }
-    .markdown-section .mermaid .edgeLabel rect { fill: #fff; }
+    .markdown-section .mermaid .edgeLabel rect,
+    .markdown-section .mermaid .labelBkg { fill: #fff !important; }
+    .markdown-section .mermaid .node polygon { fill: #edf5f1 !important; stroke: #087e75 !important; }
     @media (max-width: 768px) {
       .markdown-section { padding: 2rem 1.4rem 4rem; }
       .markdown-section h1 { font-size: 2rem; }
@@ -180,7 +183,8 @@
     html.dark-mode .markdown-section table th { background: #161b22; }
     html.dark-mode .markdown-section .mermaid .node rect,
     html.dark-mode .markdown-section .mermaid .node polygon,
-    html.dark-mode .markdown-section .mermaid .node circle { fill: #161b22 !important; stroke: #79c0ff !important; }
+    html.dark-mode .markdown-section .mermaid .node circle,
+    html.dark-mode .markdown-section .mermaid .node path { fill: #161b22 !important; stroke: #79c0ff !important; }
     html.dark-mode .markdown-section .mermaid .edgePath path,
     html.dark-mode .markdown-section .mermaid .flowchart-link { stroke: #79c0ff !important; }
     html.dark-mode .markdown-section .mermaid marker path { fill: #79c0ff !important; stroke: #79c0ff !important; }
