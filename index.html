@@ -36,9 +36,23 @@
     .markdown-section pre { border: 1px solid #dce6df; border-radius: .8rem; box-shadow: 0 8px 24px rgba(31, 63, 56, .06); }
     .markdown-section table { display: table; width: 100%; border-radius: .6rem; overflow: hidden; }
     .markdown-section table th { background: #eaf1eb; }
-    .markdown-section .mermaid { width: 100%; margin: 1.5rem 0 2rem; overflow-x: auto; text-align: center; }
-    .markdown-section .mermaid svg { display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; }
-    @media (max-width: 768px) { .markdown-section { padding: 2rem 1.4rem 4rem; } .markdown-section h1 { font-size: 2rem; } }
+    .markdown-section .mermaid { width: calc(100% + 4rem); max-width: calc(100vw - 22rem); margin: 1.5rem -2rem 2rem; overflow-x: auto; text-align: center; }
+    .markdown-section .mermaid svg { display: block; width: 100%; max-width: none; height: auto; margin: 0 auto; }
+    .markdown-section .mermaid .node rect,
+    .markdown-section .mermaid .node polygon,
+    .markdown-section .mermaid .node circle { fill: #f4f8fd; stroke: #0969da; }
+    .markdown-section .mermaid .edgePath path,
+    .markdown-section .mermaid .flowchart-link,
+    .markdown-section .mermaid marker path { stroke: #0969da; fill: #0969da; }
+    .markdown-section .mermaid .nodeLabel,
+    .markdown-section .mermaid .edgeLabel,
+    .markdown-section .mermaid text { fill: #24292f; color: #24292f; }
+    .markdown-section .mermaid .edgeLabel rect { fill: #fff; }
+    @media (max-width: 768px) {
+      .markdown-section { padding: 2rem 1.4rem 4rem; }
+      .markdown-section h1 { font-size: 2rem; }
+      .markdown-section .mermaid { width: calc(100% + 2.8rem); max-width: calc(100vw - 2rem); margin-right: -1.4rem; margin-left: -1.4rem; }
+    }
     .student-notice {
       box-sizing: border-box;
       width: min(30rem, calc(100% - 2rem));
