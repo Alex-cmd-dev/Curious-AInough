@@ -8,16 +8,16 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
     :root {
-      --theme-color: #087e75;
+      --theme-color: #0969da;
       --base-font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      --base-background-color: #f7f8f4;
-      --base-color: #253434;
-      --heading-color: #173a38;
-      --sidebar-background: #eef3ed;
-      --sidebar-nav-link-color: #435654;
-      --sidebar-nav-link-color--active: #087e75;
-      --link-color: #087e75;
-      --link-color--hover: #075f59;
+      --base-background-color: #fff;
+      --base-color: #24292f;
+      --heading-color: #24292f;
+      --sidebar-background: #fff;
+      --sidebar-nav-link-color: #505d6b;
+      --sidebar-nav-link-color--active: #0969da;
+      --link-color: #0969da;
+      --link-color--hover: #0550ae;
     }
     body { letter-spacing: .005em; }
     .sidebar { border-right: 1px solid #dce6df; }
@@ -145,26 +145,26 @@
     #theme-toggle:focus-visible { outline: 3px solid #0969da; outline-offset: 2px; }
     html.dark-mode {
       color-scheme: dark;
-      --theme-color: #81c7a5;
-      --base-background-color: #000;
-      --base-color: #e0ebe5;
-      --heading-color: #b0ddc5;
-      --sidebar-nav-link-color: #d3e3da;
+      --theme-color: #79c0ff;
+      --base-background-color: #0d1117;
+      --base-color: #e6edf3;
+      --heading-color: #a5d6ff;
+      --sidebar-nav-link-color: #e6edf3;
       --base-font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
     html.dark-mode body,
     html.dark-mode #app,
-    html.dark-mode .content { background: #000; color: #e0ebe5; }
-    html.dark-mode .sidebar { background: #17241f; border-right-color: #2d4238; }
-    html.dark-mode .sidebar-nav li a:hover { background: #23372e; }
-    html.dark-mode .markdown-section p, html.dark-mode .markdown-section li { color: #c4d5cb; }
-    html.dark-mode .markdown-section h2 { border-bottom-color: #2d4238; }
-    html.dark-mode .markdown-section blockquote { background: #192922; }
-    html.dark-mode .markdown-section pre { border-color: #2d4238; }
-    html.dark-mode .markdown-section table th { background: #17241f; }
+    html.dark-mode .content { background: #0d1117; color: #e6edf3; }
+    html.dark-mode .sidebar { background: #161b22; border-right-color: #30363d; }
+    html.dark-mode .sidebar-nav li a:hover { background: #21262d; }
+    html.dark-mode .markdown-section p, html.dark-mode .markdown-section li { color: #c9d1d9; }
+    html.dark-mode .markdown-section h2 { border-bottom-color: #30363d; }
+    html.dark-mode .markdown-section blockquote { background: #161f25; }
+    html.dark-mode .markdown-section pre { border-color: #30363d; }
+    html.dark-mode .markdown-section table th { background: #161b22; }
     html.dark-mode .sidebar a,
-    html.dark-mode .sidebar ul li a { color: #c4d5cb; }
-    html.dark-mode .markdown-section { color: #e0ebe5; }
+    html.dark-mode .sidebar ul li a { color: #c9d1d9; }
+    html.dark-mode .markdown-section { color: #e6edf3; }
     html.dark-mode .content .markdown-section h1,
     html.dark-mode .content .markdown-section h2,
     html.dark-mode .content .markdown-section h3,
@@ -177,26 +177,26 @@
     html.dark-mode .content .markdown-section h4 *,
     html.dark-mode .content .markdown-section h5 *,
     html.dark-mode .content .markdown-section h6 *,
-    html.dark-mode .content .markdown-section strong { color: #b0ddc5 !important; -webkit-text-fill-color: #b0ddc5; opacity: 1 !important; text-shadow: 0 0 1px rgba(176, 221, 197, 0.35); }
+    html.dark-mode .content .markdown-section strong { color: #b6e3ff !important; -webkit-text-fill-color: #b6e3ff; opacity: 1 !important; text-shadow: 0 0 1px rgba(176, 221, 197, 0.35); }
     html.dark-mode .sidebar h1,
-    html.dark-mode .sidebar-nav p { color: #b0ddc5 !important; }
-    html.dark-mode .markdown-section a { color: #81c7a5; }
+    html.dark-mode .sidebar-nav p { color: #b6e3ff !important; }
+    html.dark-mode .markdown-section a { color: #79c0ff; }
     html.dark-mode .sidebar a,
-    html.dark-mode .sidebar ul li a { color: #e0ebe5 !important; }
-    html.dark-mode .markdown-section table th { background: #17241f; }
-    html.dark-mode .markdown-section table tr { border-color: #2d4238; }
-    html.dark-mode .markdown-section table tr:nth-child(2n) { background: #17241f; }
+    html.dark-mode .sidebar ul li a { color: #e6edf3 !important; }
+    html.dark-mode .markdown-section table th { background: #161b22; }
+    html.dark-mode .markdown-section table tr { border-color: #30363d; }
+    html.dark-mode .markdown-section table tr:nth-child(2n) { background: #161b22; }
     html.dark-mode .markdown-section table td,
-    html.dark-mode .markdown-section table th { border-color: #2d4238; }
-    html.dark-mode .markdown-section blockquote { color: #c4d5cb; border-left-color: #3d594b; }
+    html.dark-mode .markdown-section table th { border-color: #30363d; }
+    html.dark-mode .markdown-section blockquote { color: #c9d1d9; border-left-color: #484f58; }
     html.dark-mode .markdown-section pre,
-    html.dark-mode .markdown-section code { background: #17241f; color: #e0ebe5; }
-    html.dark-mode .search input { background: #000; color: #e0ebe5; border-color: #3d594b; }
-    html.dark-mode .student-notice { background: #17241f; color: #e0ebe5; border-color: #3d594b; }
-    html.dark-mode .contribute-bar { background: #17241f; border-color: #3d594b; }
-    html.dark-mode .markdown-section .page-navigation { border-top-color: #3d594b; }
+    html.dark-mode .markdown-section code { background: #161b22; color: #e6edf3; }
+    html.dark-mode .search input { background: #0d1117; color: #e6edf3; border-color: #484f58; }
+    html.dark-mode .student-notice { background: #161b22; color: #e6edf3; border-color: #484f58; }
+    html.dark-mode .contribute-bar { background: #161b22; border-color: #484f58; }
+    html.dark-mode .markdown-section .page-navigation { border-top-color: #484f58; }
     html.dark-mode #theme-toggle,
-    html.dark-mode .activity-prompt-copy { background: #23372e; color: #e0ebe5; border-color: #648675; }
+    html.dark-mode .activity-prompt-copy { background: #21262d; color: #e6edf3; border-color: #6e7681; }
   </style>
   <script>
     try {
