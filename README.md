@@ -1,4 +1,4 @@
-# 🧭 Curious AInough: Elevate Your Thinking
+# 🧭 Curious AInough
 
 <p align="center"><img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e60bb6da0952c78d7c4c_81.png" alt="Blue thinking face emoji" width="320"></p>
 <p align="center"><small>Thinking Blue Face by <a href="https://bluemoji.io/emoji/thinking-face">Bluemoji</a>.</small></p>
@@ -9,7 +9,9 @@ AI can make a real difference in these areas when you know how to guide it, chec
 
 Life is already plenty unfair. Many people face a difficult job market, limited opportunities, and the daily pressure of just getting by. If access to AI skills is also unequal, this powerful technology could widen the gap and leave even more people behind and under further pressure. Add the rising cost of living, wars, climate change, and living can feel terrifying. It is hard not to feel hopeless and powerless.
 
-Rather than feeling cornered, take action by being Curious AInough. Elevate your thinking, elevate your friends, family, community, and while at it even your pets.
+Rather than feeling cornered, take action by being Curious AInough.
+
+Lift your thinking. Then use what you learn to help those around you live better lives: your friends, family, community, animals, and even those darn roaches, mosquitoes, and spiders.
 
 [Curious AInough? Start with the first lesson.](01-ai-and-llms/README.md)
 
