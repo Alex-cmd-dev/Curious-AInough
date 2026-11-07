@@ -56,4 +56,4 @@ Help improve this guide by [sharing feedback](https://docs.google.com/forms/d/e/
 
 This guide is licensed under [CC BY 4.0](https://github.com/Alex-cmd-dev/Curious-AInough/blob/main/LICENSE): you may share and adapt it, with credit to Curious AInough contributors and a link to the license.
 
-Among the existing examples, only three are covered: learn photosynthesis with AI, the weekly market briefing, and the weekly campus events digest. The rest are not covered yet, because their authors haven't agreed to a license: the examples in sections 1 and 2, the probability density and rocket thrust examples, the research examples, the study group and study-room app example, and the academic integrity and company privacy example. See the [license file](https://github.com/Alex-cmd-dev/Curious-AInough/blob/main/LICENSE) for the exact list.
+All activities and examples in this guide are included under CC BY 4.0. Third-party images and other assets retain their own licenses; see [assets/README.md](assets/README.md) for attribution and license details.
